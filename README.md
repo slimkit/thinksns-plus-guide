@@ -38,11 +38,11 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 * iOS端
 	* [iOS端开发须知](./技术文档/iOS端/README.md)
 	* [iOS端二次开发文档](./技术文档/iOS端/Thinksns%20Plus%20Document)
-	* [BUG HD]()
 	* [第三方账号申请指导]()
 	* [iOS端素材替换文档]()
 	* [APP Store上架指导]()
 	* [iOS端打包操作指导]()
+	* [SSL证书类型说明] (./技术文档/iOS端/SSL证书类型说明.md)
 
 * Android端
 	* [Android端开发须知概述]()
