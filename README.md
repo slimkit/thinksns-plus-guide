@@ -42,7 +42,7 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 	* [iOS端素材替换文档]()
 	* [APP Store上架指导](./技术文档/iOS端/APPStore上架指导.md)
 	* [iOS端打包操作指导]()
-	* [SSL证书类型说明] (./技术文档/iOS端/SSL证书类型说明.md)
+	* [SSL证书类型说明](./技术文档/iOS端/SSL证书类型说明.md)
 
 * Android端
 	* [Android端开发须知概述]()
