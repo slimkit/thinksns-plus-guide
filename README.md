@@ -40,7 +40,7 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 	* [iOS端二次开发文档](./技术文档/iOS端/Thinksns%20Plus%20Document)
 	* [第三方账号申请指导]()
 	* [iOS端素材替换文档]()
-	* [APP Store上架指导]()
+	* [APP Store上架指导](./技术文档/iOS端/APPStore上架指导.md)
 	* [iOS端打包操作指导]()
 	* [SSL证书类型说明] (./技术文档/iOS端/SSL证书类型说明.md)
 
