@@ -44,16 +44,14 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 	* [SSL证书类型说明](./技术文档/iOS端/SSL证书类型说明.md)
 
 * Android端
-	* [Android端开发须知概述]()
-	* [Android端二次开发文档]()
-	* [BUG HD]()
-	* [第三方账号申请指导]()
-	* [Android端素材替换文档]()
-	* [Android签名文件]()
-	* [兼容性处理文档]()
-	* [Android端打包操作指导]()
-	* [Android端API接口文档]()
-	* [Android端开发须知概述]()
+	* [Android端开发须知概述](./技术文档/Android-Platform/README.md)
+	* [Android端二次开发文档](./技术文档/Android-Platform/SecondaryDevelopmentTutorial.md)
+	* [BUG-友盟统计](https://passport.umeng.com/signup)
+	* [第三方账号申请指导](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
+	* [Android端素材替换文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentTutorial.md)
+	* [Android签名文件](./技术文档/Android-Platform/document/tutorial/AndroidCreateSignatureFileTutorial.md)
+	* [Android端打包操作指导](./技术文档/Android-Platform/document/tutorial/AndroidPackageTutorial.md)
+	* [Android端API接口文档](./技术文档/Android-Platform/document/app/API.md)
 
 * H5端
 	* [H5端开发概述]()
