@@ -14,9 +14,10 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 
 ## 产品文档
 
-* [PC端使用手册]
-* [移动端（APP+H5）使用手册]
-* [后台管理说明书]
+* [移动端使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f96170569dd.pdf)
+* [后台使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961d7a15a5.pdf)
+* [PC端使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961c19a9d7.pdf)
+* [H5使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961980fbe8.pdf)
 
 ## 技术文档
 
