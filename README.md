@@ -25,6 +25,8 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 	* [服务端文档](https://slimkit.github.io/plus-docs/)
 	* [服务端部署视频](http://www.thinksns.com/reader/100.html)
 
+* [移动端打包上线需要得资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
+
 * iOS端
 	* [iOS端开发须知](./技术文档/iOS端/README.md)
 	* [iOS端二次开发文档](./技术文档/iOS端/Thinksns%20Plus%20Document)
