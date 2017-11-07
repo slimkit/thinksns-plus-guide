@@ -18,7 +18,7 @@ TS+ iOS code repository.
 * [工程文件树状图说明](#工程文件树状图说明)
     * [图片文件夹树状图说明](#图片文件夹树状图说明)
 * [文档说明](#文档说明)
-    * [详细说明文档目录](https://github.com/slimkit/thinksns-plus-guide/tree/master/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/iOS%E7%AB%AF/Thinksns%20Plus%20Document
+    * [详细说明文档目录](https://github.com/slimkit/thinksns-plus-guide/tree/master/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/iOS%E7%AB%AF/Thinksns%20Plus%20Document)
     * [文档更新时间规则](#文档更新时间规则)
 * [分支使用说明](#分支使用说明)
     * [分支关系](#分支关系)
