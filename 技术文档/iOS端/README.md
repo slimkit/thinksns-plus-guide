@@ -4,11 +4,9 @@
 
 TS+ iOS code repository.
 
-该工程使用 swift 3.0 语言编写.支持 iOS 9.0 以上系统.
+该工程使用 swift 3.0 语言编写.支持 iOS 9.0 以上系统.XCode版本8.0.
 
 重要说明记录在 README.md 文件.
-
-和整个项目相关的决策工作安排等记录在[thinksns-plus-document](https://github.com/zhiyicx/thinksns-plus-document).
 
 本工程的文档部分遵循[智艺创想文档审核标准](https://github.com/zhiyicx/mobile-devices-code-style-guide/wiki/智艺创想文档审核标准)
 
@@ -20,7 +18,7 @@ TS+ iOS code repository.
 * [工程文件树状图说明](#工程文件树状图说明)
     * [图片文件夹树状图说明](#图片文件夹树状图说明)
 * [文档说明](#文档说明)
-    * [详细说明文档目录](#详细说明文档目录)
+    * [详细说明文档目录](https://github.com/slimkit/thinksns-plus-guide/tree/master/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/iOS%E7%AB%AF/Thinksns%20Plus%20Document
     * [文档更新时间规则](#文档更新时间规则)
 * [分支使用说明](#分支使用说明)
     * [分支关系](#分支关系)
