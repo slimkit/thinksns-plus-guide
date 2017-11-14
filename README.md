@@ -10,6 +10,8 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 
 购买授权的客户请提供github用户名以及项目的中英文名称.(缺少英文名称的客户可提供域名/拼音等)用于永久接收最新版本的`ThinkSNS Plus`系列产品源码.
 
+* [移动端打包上线所需资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
+
 ## 服务文档资料
 
 * [产品介绍]
@@ -28,8 +30,6 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 * 服务端
 	* [服务端文档](https://slimkit.github.io/plus-docs/)
 	* [服务端部署视频](http://www.thinksns.com/reader/100.html)
-
-* [移动端打包上线所需资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
 
 * iOS端
 	* [iOS端开发须知](./技术文档/iOS端/README.md)
