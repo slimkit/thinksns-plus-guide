@@ -141,7 +141,9 @@
     - 应用截图： 480x800 、720x1280 需要 3~5 张。
     - 宣传 banner： 450X300 需要 3 张。
 
-    > **温馨提醒:** `三方 Key `获取时，将涉及到应用签名与打包，如不太清楚，请查看[打包教程](/AndroidPackageTutorial.md)与[创建签名教程](AndroidCreateSignatureFileTutorial.md),建议开发人员处理
+
+> **温馨提醒:** `三方 Key `获取时，将涉及到应用签名与打包，如不太清楚，请查看[打包教程](/AndroidPackageTutorial.md)与[创建签名教程](AndroidCreateSignatureFileTutorial.md),建议开发人员处理
+
 
 11. Android 端签名所需资料
     - 您的keystore密码： 
