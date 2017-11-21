@@ -5,6 +5,12 @@
 	* [图片素材替换](#图片素材替换)
 	* [分享内容配置]#(暂无)
 
+	
+* 目录
+ * [简单界面调整](#简单界面调整)
+ * [图片素材替换](#图片素材替换)
+ * [分享内容配置]#(暂无)
+
 
 ## 简单界面调整
 
@@ -23,19 +29,19 @@
 #### A. 基本概述
 * 文档只涉及一些基本的图标和图片替换，不涉及更深层次的替换。如果需要更深层次的替换，请参考具体源码。
 * 基本替换图标
- * AppIcon(应用图标)
- * Tabbar(标签栏图标)
- * Share Logo(分享Logo)
+	* AppIcon(应用图标)
+	* Tabbar(标签栏图标)
+	* Share Logo(分享Logo)
 * 基本图片替换
- * 启动页
- * 缺省图
+	* 启动页
+	* 缺省图
 
 #### B. 本地图片相关
 * 2.1：iOS本地图标和图片都使用png格式的
 * 2.2：iOS本地图标和图片都需要2倍图和3倍图。
 * 2.3：命名问题，以命名为AppIcon_20pt的正方形图标为例
- * AppIcon_20pt@2x.png (2倍图尺寸：40x40)
- * AppIcon_20pt@3x.png (3倍图尺寸：60x60)
+	* AppIcon_20pt@2x.png (2倍图尺寸：40x40)
+	* AppIcon_20pt@3x.png (3倍图尺寸：60x60)
 
 #### C. 约定规范
 * 下面所指定的图标或图片名都是指Assets.xcassets中左侧列表栏中对应的名字，图标或图片的实际名字不是必须和指定的名字统一，但建议使用指定的名字。
@@ -52,10 +58,10 @@
 ### A. AppIcon(应用图标)
 * Assets中命名：```AppIcon```
 * 尺寸：
- * 20pt的2倍图和3倍图(40x40, 60x60)、
- * 29pt的(58x58, 87×87)、
- * 40pt的(80x80, 120x120)、
- * 60pt的(120x120, 180x180)
+	* 20pt的2倍图和3倍图(40x40, 60x60)、
+	* 29pt的(58x58, 87×87)、
+	* 40pt的(80x80, 120x120)、
+	* 60pt的(120x120, 180x180)
 * 图标名：名称随便，(但保证2倍图和3倍图的后缀)
 * TS+图标命名：
 
@@ -85,22 +91,22 @@ icon_1024iPhoneSpootlight7_40pt@3x.png
 * 统一尺寸：48×48、72x72
 
 * 首页图标
- * 正常状态命名：```IMG_common_ico_bottom_home_normal```
- * 选中状态命名：```IMG_common_ico_bottom_home_high```
+	* 正常状态命名：```IMG_common_ico_bottom_home_normal```
+	* 选中状态命名：```IMG_common_ico_bottom_home_high```
 
 * 发现图标
- * 正常状态命名：```IMG_common_ico_bottom_discover_normal```
- * 选中状态命名：```IMG_common_ico_bottom_discover_high```
+	* 正常状态命名：```IMG_common_ico_bottom_discover_normal```
+	* 选中状态命名：```IMG_common_ico_bottom_discover_high```
 
 * 消息图标
- * 正常状态命名：```IMG_common_ico_bottom_message_normal```
- * 选中状态命名：```IMG_common_ico_bottom_message_high```
- * 有消息状态(小红点)命名：```IMG_common_ico_bottom_message_remind```
+	* 正常状态命名：```IMG_common_ico_bottom_message_normal```
+	* 选中状态命名：```IMG_common_ico_bottom_message_high```
+	* 有消息状态(小红点)命名：```IMG_common_ico_bottom_message_remind```
 
 * 我的图标
- * 正常状态命名：```IMG_common_ico_bottom_me_normal```
- * 选中状态命名：```IMG_common_ico_bottom_me_high```
- * 有消息状态(小红点)命名：```IMG_common_ico_bottom_me_remind```
+	* 正常状态命名：```IMG_common_ico_bottom_me_normal```
+	* 选中状态命名：```IMG_common_ico_bottom_me_high```
+	* 有消息状态(小红点)命名：```IMG_common_ico_bottom_me_remind```
 
 
 ### C. Share Logo(分享Logo)
@@ -112,42 +118,42 @@ icon_1024iPhoneSpootlight7_40pt@3x.png
 ### 3、缺省图片替换
 
 * 内容已删除
- * 命名：```IMG_img_default_delete```
- * 尺寸：400 × 400、600 × 600
- * 使用位置：内容被删除时的占位展示，目前主要是动态和圈子中有可能使用。
- * 参考图
+	* 命名：```IMG_img_default_delete```
+	* 尺寸：400 × 400、600 × 600
+	* 使用位置：内容被删除时的占位展示，目前主要是动态和圈子中有可能使用。
+	* 参考图
 
 	<img src="./images/img_default_delete@2x.png" width = "150" height = "150" alt="IMG_img_default_delete" align=center />
 
 * 无网络
- * 命名：```IMG_img_default_internet```
- * 尺寸：400 × 400、600 × 600
- * 使用位置：页面加载数据网络请求异常时展示
- * 参考图
+	* 命名：```IMG_img_default_internet```
+	* 尺寸：400 × 400、600 × 600
+	* 使用位置：页面加载数据网络请求异常时展示
+	* 参考图
 
 	<img src="./images/img_default_internet@2x.png" width = "150" height = "150" alt="IMG_img_default_internet" align=center />
 
 * 空无一人
- * 命名：```IMG_img_default_nobody```
- * 尺寸：400 × 400、600 × 600
- * 使用位置：关注列表、粉丝列表
- * 参考图
+	* 命名：```IMG_img_default_nobody```
+	* 尺寸：400 × 400、600 × 600
+	* 使用位置：关注列表、粉丝列表
+	* 参考图
 
 	<img src="./images/img_default_nobody@2x.png" width = "150" height = "150" alt="IMG_img_default_nobody" align=center />
 
 * 什么都没有
- * 命名：```IMG_img_default_nothing```
- * 尺寸：400 × 400、600 × 600
- * 使用位置：列表内容为空时的占位图
- * 参考图
+	* 命名：```IMG_img_default_nothing```
+	* 尺寸：400 × 400、600 × 600
+	* 使用位置：列表内容为空时的占位图
+	* 参考图
 
 	<img src="./images/img_default_nothing@2x.png" width = "150" height = "150" alt="IMG_img_default_nothing" align=center />
  
 * 什么都没找到
- * 命名：```IMG_img_default_search```
- * 尺寸：400 × 400、600 × 600
- * 使用位置：找人
- * 参考图
+ 	* 命名：```IMG_img_default_search```
+	* 尺寸：400 × 400、600 × 600
+	* 使用位置：找人
+	* 参考图
 
 	<img src="./images/img_default_search@2x.png" width = "150" height = "150" alt="IMG_img_default_search" align=center />
 
