@@ -186,8 +186,16 @@
 | mipmap-xhdpi | 720x1280  | |
 | mipmap-xxhdpi | 1080x1920 | ![guide]|
 | mipmap-xxxhdpi | 1440x2560 |  |
+#### 3. 广告底部 logo、发布页 logo 图标替换, 位于 `baseproject/src/main/res/` ,`pic_adver_logo.png`
 
-#### 3. 缺省信息图片替换, 位于 `baseproject/src/main/res/` ,`guide.png`，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
+| 位置（guide.png） | 大小（宽x高） | 图标 |
+|:-----:|:-----:|:-----:|
+| mipmap-hdpi | 288x86  |![guide_logo_hdpi]|
+| mipmap-xhdpi | 384x115  | ![guide_logo_xhdpi]|
+| mipmap-xxhdpi | 576x173 | ![guide_logo_xxhdpi]|
+| mipmap-xxxhdpi | 763x230 |![guide_logo_xxxhdpi] |
+
+#### 4. 缺省信息图片替换, 位于 `baseproject/src/main/res/` ,`guide.png`，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 | 名字 | 说明 | 图标 |
 |:-----:|:-----:|:-----:|
 | pic_default_portrait1.png | 默认头像，不带边框  |![pic_default_portrait1]|
@@ -198,7 +206,7 @@
 | img_default_nothing.png | 默认什么也没有缺省图  |![img_default_nothing]|
 | img_default_search.png | 默认没有搜索到缺省图  |![img_default_search]|
 
-#### 4. 主页底部导航栏替换，位于 `app/main/src/res/`,，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
+#### 5. 主页底部导航栏替换，位于 `app/main/src/res/`,，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 
  |名字 |大小（宽x高）| 说明 | 图标 |
 |:-----:|:-----:|:-----:|:-----:|
@@ -216,7 +224,7 @@
 
 
 
-#### 5. App 名字修改，位于 `app/src/main/res/values/strings.xml`,修改 `app_name` 即可。
+#### 6. App 名字修改，位于 `app/src/main/res/values/strings.xml`,修改 `app_name` 即可。
 
 ```
 <resources>
@@ -226,7 +234,7 @@
 
 ```
 
-#### 6. 修改主体颜色、文字大小、间距等。
+#### 7. 修改主体颜色、文字大小、间距等。
 
 具体信息可以查看 [视觉文档](../design/DESIGN.md)
 
@@ -241,6 +249,10 @@
 [icon_xxhdpi]:../image/icon_xxhdpi.png "xxhdpi"
 [icon_xxxhdpi]:../image/icon_xxxhdpi.png "xxxhdpi"
 [guide]:../image/guide.png "guide"
+[guide_logo_hdpi]:../image/pic_adver_logo_hdpi.png "guide_logo_hdpi"
+[guide_logo_xhdpi]:../image/pic_adver_logo_xhdpi.png "guide_logo_hdpi"
+[guide_logo_xxhdpi]:../image/pic_adver_logo_xxhdpi.png "guide_logo_hdpi"
+[guide_logo_xxxhdpi]:../image/pic_adver_logo_xxxhdpi.png "guide_logo_hdpi"
 [pic_default_portrait1]:../image/pic_default_portrait1.png "默认头像，不带边框"
 [pic_default_portrait2]:../image/pic_default_portrait2.png "默认头像，带白色边框"
 [img_default_delete]:../image/img_default_delete.png "默认删除缺省图"
