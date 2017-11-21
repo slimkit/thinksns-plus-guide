@@ -152,12 +152,14 @@
     - 您所在的州或省份名称是什么？ 
     - 该单位的两字母国家代码是什么？
 
-### Android 端应用内使用素材
+### 移动端应用内使用素材
 
-请查看[二次开发资料替换文档](SecondaryDevelopmentResourceReplaceTutorial.md)
+iOS端查看[iOS应用配置](技术文档/iOS端/TS+ iOS端应用配置.md)
+安卓端请查看[二次开发资料替换文档](SecondaryDevelopmentResourceReplaceTutorial.md)
 
 ## 非必要资料
-关于平台上架，请自行处理。
+
+关于平台上架，请自行处理。`App Store`上架我们会协助处理,但是不保证上架的通过时间.
 
 1. 安卓上架平台账号**如果需要在哪些平台上架就需要申请对应平台的账号并认证**，以下提供几个常用的平台与地址。
 
