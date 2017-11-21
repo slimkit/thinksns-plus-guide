@@ -155,6 +155,7 @@
 ### 移动端应用内使用素材
 
 iOS端查看[iOS应用配置](技术文档/iOS端/TS+ iOS端应用配置.md)
+
 安卓端请查看[二次开发资料替换文档](SecondaryDevelopmentResourceReplaceTutorial.md)
 
 ## 非必要资料
