@@ -10,6 +10,7 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 
 购买授权的客户请提供github用户名以及项目的中英文名称.(缺少英文名称的客户可提供域名/拼音等)用于永久接收最新版本的`ThinkSNS Plus`系列产品源码.
 
+**注意：** 需要二次开发的，请在开发分支`develop`分支上面进行修改，不要使用`master`分支直接修改，`master`分支将用于更新`ts+`最新代码，如需要新的代码，请自行将`master`分支代码合并到`develop`分支上。
 * [移动端打包上线所需资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
 
 ## 服务文档资料
