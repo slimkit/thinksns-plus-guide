@@ -171,7 +171,7 @@
 
 #### 1. APP图标替换，位于 `app/src/main/res` ,` icon.png`
 
-| 位置（icon.png） | 大小 | 图标 |
+| 位置（icon.png） | 大小（宽x高） | 图标 |
 |:-----:|:-----:|:-----:|
 | mipmap-hdpi | 72x72   | ![icon_hdpi]|
 | mipmap-xhdpi | 96x96  | ![icon_xhdpi]|
@@ -180,12 +180,12 @@
 
 #### 2. 引导图替换, 位于 `baseproject/src/main/res/` ,`guide.png`
 
-| 位置（guide.png） | 大小 | 图标 |
+| 位置（guide.png） | 大小（宽x高） | 图标 |
 |:-----:|:-----:|:-----:|
-| mipmap-hdpi | 800x480   ||
-| mipmap-xhdpi | 1280x720  | |
-| mipmap-xxhdpi | 1920x1080 | ![guide]|
-| mipmap-xxxhdpi | 2560x1440 |  |
+| mipmap-hdpi | 480x800  ||
+| mipmap-xhdpi | 720x1280  | |
+| mipmap-xxhdpi | 1080x1920 | ![guide]|
+| mipmap-xxxhdpi | 1440x2560 |  |
 
 #### 3. 缺省信息图片替换, 位于 `baseproject/src/main/res/` ,`guide.png`，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 | 名字 | 说明 | 图标 |
@@ -200,7 +200,7 @@
 
 #### 4. 主页底部导航栏替换，位于 `app/main/src/res/`,，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 
- |名字 |大小| 说明 | 图标 |
+ |名字 |大小（宽x高）| 说明 | 图标 |
 |:-----:|:-----:|:-----:|:-----:|
 | common_ico_bottom_add.png | 120x98| 加号  |![common_ico_bottom_add]|
 | common_ico_bottom_discover_high.png | 48x48 | 发现高亮  |![common_ico_bottom_discover_high]|
