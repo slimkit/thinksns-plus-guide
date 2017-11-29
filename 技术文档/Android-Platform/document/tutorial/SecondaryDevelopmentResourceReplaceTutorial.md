@@ -186,7 +186,7 @@
 | mipmap-xhdpi | 720x1280  | |
 | mipmap-xxhdpi | 1080x1920 | ![guide]|
 | mipmap-xxxhdpi | 1440x2560 |  |
-#### 3. 广告底部 logo、发布页 logo 图标替换, 位于 `baseproject/src/main/res/` ,`pic_adver_logo.png`
+#### 3. 广告底部 logo、发布页 logo 图标替换, 位于 `app/src/main/res/` ,`pic_adver_logo.png`
 
 | 位置（guide.png） | 大小（宽x高） | 图标 |
 |:-----:|:-----:|:-----:|
@@ -198,8 +198,9 @@
 #### 4. 缺省信息图片替换, 位于 `baseproject/src/main/res/` ,`guide.png`，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 | 名字 | 说明 | 图标 |
 |:-----:|:-----:|:-----:|
-| pic_default_portrait1.png | 默认头像，不带边框  |![pic_default_portrait1]|
-| pic_default_portrait2.png | 默认头像，带白色边框  |![pic_default_portrait2]|
+| pic_default_man.png | 默认头像，男  |![pic_default_man]|
+| pic_default_woman.png | 默认头像，女  |![pic_default_woman]|
+| pic_default_secret.png | 默认头像，保密  |![pic_default_secret]|
 | img_default_delete.png | 默认删除缺省图  |![img_default_delete]|
 | img_default_internet.png | 默认网络差缺省图  |![img_default_internet]|
 | img_default_nobody.png | 默认没有用户缺省图  |![img_default_nobody]|
@@ -208,7 +209,7 @@
 
 #### 5. 主页底部导航栏替换，位于 `app/main/src/res/`,，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 
- |名字 |大小（宽x高）| 说明 | 图标 |
+|名字 |大小（宽x高）| 说明 | 图标 |
 |:-----:|:-----:|:-----:|:-----:|
 | common_ico_bottom_add.png | 120x98| 加号  |![common_ico_bottom_add]|
 | common_ico_bottom_discover_high.png | 48x48 | 发现高亮  |![common_ico_bottom_discover_high]|
@@ -255,6 +256,9 @@
 [guide_logo_xxxhdpi]:../image/pic_adver_logo_xxxhdpi.png "guide_logo_hdpi"
 [pic_default_portrait1]:../image/pic_default_portrait1.png "默认头像，不带边框"
 [pic_default_portrait2]:../image/pic_default_portrait2.png "默认头像，带白色边框"
+[pic_default_man]:../image/pic_default_man.png "默认头像，男"
+[pic_default_woman]:../image/pic_default_woman.png "默认头像，女"
+[pic_default_secret]:../image/pic_default_secret.png "默认头像，保密"
 [img_default_delete]:../image/img_default_delete.png "默认删除缺省图"
 [img_default_internet]:../image/img_default_internet.png "默认网络差缺省图"
 [img_default_nobody]:../image/img_default_nobody.png "默认没有用户缺省图"
