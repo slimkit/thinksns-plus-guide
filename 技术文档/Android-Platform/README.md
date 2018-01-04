@@ -155,4 +155,4 @@ hotfix/pay_fail ( 修复分支 )
 
 ### 工程结构
 
-请查看[二次开发文档](SecondaryDevelopmentTutorial.md)
+请查看[二次开发文档](document/tutorial/SecondaryDevelopmentTutorial.md)
