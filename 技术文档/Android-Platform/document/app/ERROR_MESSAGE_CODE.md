@@ -1,4 +1,6 @@
-2017年5月11日 11:06:06
+2018年01月04日11:05:08
+
+** 注意： ** V2版本将不再使用以下的错误码，将严格按照 [消息列举](https://slimkit.github.io/plus-docs/v2/) 处理
 # 消息对照表
 在程序中，所有请求接口都是使用了状态码约定不同的错误状态，下面将列出所有的状态码，以便调用接口过程中随时查询。
 关联[后台说明](https://github.com/zhiyicx/thinksns-plus/blob/master/documents/api/v1/messages.md)
