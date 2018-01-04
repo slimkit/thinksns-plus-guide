@@ -1,4 +1,4 @@
-2017年5月11日 14:06:30
+2018年01月04日11:13:34
 # mvp说明
 ## 1.概述
 项目基于mvp模式进行开发，方便项目维护和升级
@@ -105,10 +105,8 @@
 
 - LoginContract:定义mvp层次的接口
 - LoginPresenter：实现登陆的Presenter接口
-- LoginRepository:实现登陆的Model层接口
+- UserInfoRepository:实现登陆的Model层接口
 - LoginFragment中实现View接口
 - LoginPresenterModule：针对Presenter的Dagger管理，添加的module
 - LoginComponent：针对Presenter的Dagger管理，添加的Component
 - LoginActivity：管理LoginFragment
-
-
