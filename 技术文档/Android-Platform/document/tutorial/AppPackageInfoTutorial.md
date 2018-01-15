@@ -123,16 +123,28 @@
     - 注册地址：https://github.com/
     - 用途说明：用户贵公司的源代码接收与升级
 
-9. App 唯一标识
+9. 环信即时聊天
 
-| 标识 | 示例 | 说明 |
-|:-----:|:----:|:----:|
-| app 名称 |新浪微博、Sina | 用户看到的名称|
-| Android 包名 |com.sina.www | app唯一标示，申请第三方账号需要使用|
-|  iOS Budle ID |com.sina.www | app唯一标示，申请第三方账号需要使用|
-| iOS Schema |sina.com | app唯一标示，申请第三方账号需要使用|
+	费用：限制免费
 
-10. 申请三方key所需素材
+	说明：
+	- 注册地址：https://console.easemob.com/#/register?_k=pj0hec
+	- 必须申请成为个人开发者或者公司开发者
+	- 建议购买收费版本，这样能使用语音视频通话，功能更全面
+	- key获取：登录环信后台账号之后，在应用列表点击该应用，在应用信息里面的“应用标识(AppKey)”
+	- 集成文档参考：http://docs.easemob.com/im/start
+
+10. App 唯一标识
+
+	| 标识 | 示例 | 说明 |
+	|:-----:|:----:|:----:|
+	| app 名称 |新浪微博、Sina | 用户看到的名称|
+	| Android 包名 |com.sina.www | app唯一标示，申请第三方账号需要使用|
+	|  iOS Budle ID |com.sina.www | app唯一标示，申请第三方账号需要使用|
+	| iOS Schema |sina.com | app唯一标示，申请第三方账号需要使用|
+
+
+11. 申请三方key所需素材
 
     - 应用简介： 20字以内;
     - 应用介绍： 20-80字;
