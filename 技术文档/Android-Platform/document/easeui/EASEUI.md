@@ -32,11 +32,6 @@ manifestPlaceholders = [
         ]
 ##
 ```
-然后在AndroidManifest.xml中
-```
-<!-- 设置环信应用的AppKey -->
-        <meta-data android:name="EASEMOB_APPKEY"  android:value="${EASEMOB_APPKEY}" />
-```
 #### 4、配置so文件
 如果你的项目中有其他三方库，请配合其他三方调整
 ```
