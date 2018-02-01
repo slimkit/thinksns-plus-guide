@@ -29,7 +29,7 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 ## 技术文档
 
 * 服务端
-	* [服务端文档](https://slimkit.github.io/plus-docs/)
+	* [服务端文档](https://slimkit.github.io/)
 	* [服务端部署视频](http://www.thinksns.com/reader/100.html)
 
 * iOS端
