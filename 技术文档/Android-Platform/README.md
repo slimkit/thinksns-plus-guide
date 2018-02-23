@@ -8,6 +8,8 @@
 
 整个项目代码风格都遵守[智艺创想移动端开发代码风格指南](https://github.com/zhiyicx/mobile-devices-code-style-guide)
 
+**注意：** 需要二次开发的，请在开发分支`develop`分支上面进行修改，不要使用`master`分支直接修改，`master`分支将用于更新`ts+`最新代码，如需要新的代码，请自行将`master`分支代码合并到`develop`分支上。
+
 ## 工程基础配置说明
 
 该工程使用 java 语言编写.支持 Android 4.0 (api 15) 以上系统.
