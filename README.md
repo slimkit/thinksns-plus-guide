@@ -42,7 +42,7 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 
 * Android端
 	* [Android端开发须知概述](./技术文档/Android-Platform/README.md)
-	* [Android端二次开发文档](./技术文档/Android-Platform/SecondaryDevelopmentTutorial.md)
+	* [Android端二次开发文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentTutorial.md)
 	* [BUG-友盟统计](https://passport.umeng.com/signup)
 	* [第三方账号申请指导](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
 	* [Android端素材替换文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentResourceReplaceTutorial.md)
