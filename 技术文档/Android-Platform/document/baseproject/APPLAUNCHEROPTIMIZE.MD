@@ -1,4 +1,4 @@
-2017年5月11日 11:36:56
+2018年05月02日14:59:11
 # App启动优化
 
 ## 概述
@@ -10,6 +10,7 @@
 （1）设置背景图Theme
 
 通过设置一张背景图。 当程序启动时，首先显示这张背景图，避免出现黑屏
+
 ```java
     <!--BackGroundLauncherTheme theme 启动页主题-->
     <style name="BackGroundLauncherTheme" parent="Theme.AppCompat.Light.NoActionBar">
@@ -20,6 +21,7 @@
 （2）设置透明Theme
 
 通过把样式设置为透明，程序启动后不会黑屏而是整个透明了，等到界面初始化完才一次性显示出来
+
 ```java
     <!--TranslucentLAUNCHER theme 启动页主题-->
     <style name="TranslucentLauncherTheme" parent="android:Theme.Translucent.NoTitleBar.Fullscreen"/>
@@ -30,6 +32,7 @@
 - Theme2 给人程序启动慢感觉，界面一次性刷出来，刷新同步。
 
 （3）修改AndroidManifest.xml
+
 ```java
 <application
         android:name=".App"
