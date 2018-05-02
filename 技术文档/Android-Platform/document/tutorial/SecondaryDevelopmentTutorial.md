@@ -17,7 +17,7 @@
 >- [RxBinding 的使用](../app/RXBINDING.md)
 
 [baseproject](../baseproject/BASEPROJECT.md) 项目基类定义，和各种配置信息,接入人员可修改，包涵资源文件
->- [App 启动优化](../baseproject/APPLAUNCHEROPTIMIZE.md)
+>- [App 启动优化](../baseproject/APPLAUNCHEROPTIMIZE.MD)
 >- [关于 TSActivity 和 TSFragment 说明](../baseproject/BASEClASS.md)
 >- [缓存策略](../baseproject/CACHE.md)
 >- [程序异常崩溃处理](../baseproject/CRASHHANDLER.md)
