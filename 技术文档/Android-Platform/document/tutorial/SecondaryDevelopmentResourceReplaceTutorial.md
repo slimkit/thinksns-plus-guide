@@ -1,3 +1,4 @@
+2018年05月02日14:53:55
 # 二次开发资料替换说明文档
 
 
@@ -14,7 +15,8 @@
     ![signature_show]
 
 3. 配置编译时签名，`app/build.gradle`中
-    ```
+ 
+ ```
     apply plugin: 'com.android.application'
 
     ...
@@ -35,8 +37,9 @@
         }
     }
     ...
+```
+ 
 
-    ```
 
 ### 第三方账号配置
 
@@ -45,6 +48,7 @@
 
 
 1. 友盟（Umeng）配置 ，修改友盟 `UMENG_APPKEY`，位于 `baseproject/build.gradle`
+    
     ```
     apply plugin: 'com.android.library'
     android {
@@ -62,6 +66,7 @@
 
     ```
 2. 高德地图配置 ，修改高德 `AMAP_APPKEY`，位于 `baseproject/build.gradle`
+   
     ```
     apply plugin: 'com.android.library'
     android {
@@ -79,6 +84,7 @@
 
     ```
 3. 极光推送配置，位于 `app/build.gradle`, 极光推送回调请查看 `app/src/main/java/jpush`
+    
     ```
     apply plugin: 'com.android.library'
     android {
@@ -96,6 +102,7 @@
 
     ```
 4. QQ、Sina、Wixin 三方账号 key 配置。位于 `baseproject/src/main/java/com.zhiyicx.baseproject/config/UmengConfig.class`。 QQ 的 `QQ_APPID` 也需要在`baseproject/build.gradle`中配置
+    
     ```
     package com.zhiyicx.baseproject.config;
 
@@ -142,7 +149,8 @@
 
 ### 服务器地址
 1. 服务器地址与接口地址都位置 `baseproject/src/main/java/config/Apiconfig.class` 中。修改 `APP_DOMAIN_FORMAL` 即可。
-    ```
+
+```
     public class ApiConfig {
        ...
         /**
@@ -157,15 +165,13 @@
         public static final String APP_DOMAIN_DEV = "http://dev.zhibocloud.cn/";// 模拟在线正式服务器
         public static final String APP_DOMAIN_TEST = "http://test-plus.zhibocloud.cn/";// 在线测试服务器
         public static final String APP_DOMAIN_FORMAL = "https://tsplus.zhibocloud.cn/";// 正式服务器
-        public static final String APP_DOMAIN_FOR_TEARCHER_QIAO = "http://192.168.2.200/";// 乔老师本地服务器
-
         public static String APP_DOMAIN = APP_DOMAIN_FORMAL;
 
         public static final String URL_ABOUT_US = "api/" + API_VERSION_2 + "/aboutus";// 关于我们网站
         public static final String URL_JIPU_SHOP = "http://demo.jipukeji.com";// 极铺购物地址
         ...
 
-    ```
+```
 
 ### 资源替换
 
@@ -186,16 +192,24 @@
 | mipmap-xhdpi | 720x1280  | |
 | mipmap-xxhdpi | 1080x1920 | ![guide]|
 | mipmap-xxxhdpi | 1440x2560 |  |
-#### 3. 广告底部 logo、发布页 logo 图标替换, 位于 `app/src/main/res/` ,`pic_adver_logo.png`
+#### 3. 广告底部 logo, 位于 `app/src/main/res/` ,`pic_adver_logo.png`
 
-| 位置（guide.png） | 大小（宽x高） | 图标 |
+| 位置（pic_adver_logo.png） | 大小（宽x高） | 图标 |
 |:-----:|:-----:|:-----:|
 | mipmap-hdpi | 288x86  |![guide_logo_hdpi]|
 | mipmap-xhdpi | 384x115  | ![guide_logo_xhdpi]|
 | mipmap-xxhdpi | 576x173 | ![guide_logo_xxhdpi]|
 | mipmap-xxxhdpi | 763x230 |![guide_logo_xxxhdpi] |
+#### 4. 、发布页 logo 图标替换, 位于 `app/src/main/res/` ,`logo_send_thinksns.png`
 
-#### 4. 缺省信息图片替换, 位于 `baseproject/src/main/res/` ,`guide.png`，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
+| 位置（logo_send_thinksns.png） | 大小（宽x高） | 图标 |
+|:-----:|:-----:|:-----:|
+| mipmap-hdpi | 450x450  |![logo_send_thinksns_hdpi]|
+| mipmap-xhdpi | 600x600  | ![logo_send_thinksns_xhdpi]|
+| mipmap-xxhdpi | 900x900 | ![logo_send_thinksns_xxhdpi]|
+| mipmap-xxxhdpi | 1200x1200 |![logo_send_thinksns_xxxhdpi] |
+
+#### 5. 缺省信息图片替换, 位于 `baseproject/src/main/res/` ,`guide.png`，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 | 名字 | 说明 | 图标 |
 |:-----:|:-----:|:-----:|
 | pic_default_man.png | 默认头像，男  |![pic_default_man]|
@@ -207,7 +221,7 @@
 | img_default_nothing.png | 默认什么也没有缺省图  |![img_default_nothing]|
 | img_default_search.png | 默认没有搜索到缺省图  |![img_default_search]|
 
-#### 5. 主页底部导航栏替换，位于 `app/main/src/res/`,，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
+#### 6. 主页底部导航栏替换，位于 `app/main/src/res/`,，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 
 |名字 |大小（宽x高）| 说明 | 图标 |
 |:-----:|:-----:|:-----:|:-----:|
@@ -225,7 +239,7 @@
 
 
 
-#### 6. App 名字修改，位于 `app/src/main/res/values/strings.xml`,修改 `app_name` 即可。
+#### 7. App 名字修改，位于 `app/src/main/res/values/strings.xml`,修改 `app_name` 即可。
 
 ```
 <resources>
@@ -235,10 +249,9 @@
 
 ```
 
-#### 7. 修改主体颜色、文字大小、间距等。
+#### 8. 修改主体颜色、文字大小、间距等。
 
 具体信息可以查看 [视觉文档](../design/DESIGN.md)
-
 
 
 --------------------------------
@@ -254,6 +267,10 @@
 [guide_logo_xhdpi]:../image/pic_adver_logo_xhdpi.png "guide_logo_hdpi"
 [guide_logo_xxhdpi]:../image/pic_adver_logo_xxhdpi.png "guide_logo_hdpi"
 [guide_logo_xxxhdpi]:../image/pic_adver_logo_xxxhdpi.png "guide_logo_hdpi"
+[logo_send_thinksns_hdpi]:../image/logo_send_thinksns_hdpi.png "logo_send_thinksns_hdpi"
+[logo_send_thinksns_xhdpi]:../image/logo_send_thinksns_xhdpi.png "logo_send_thinksns_xhdpi"
+[logo_send_thinksns_xxhdpi]:../image/logo_send_thinksns_xxhdpi.png "logo_send_thinksns_xxhdpi"
+[logo_send_thinksns_xxxhdpi]:../image/logo_send_thinksns_xxxhdpi.png "logo_send_thinksns_xxxhdpi"
 [pic_default_portrait1]:../image/pic_default_portrait1.png "默认头像，不带边框"
 [pic_default_portrait2]:../image/pic_default_portrait2.png "默认头像，带白色边框"
 [pic_default_man]:../image/pic_default_man.png "默认头像，男"
