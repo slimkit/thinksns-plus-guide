@@ -51,9 +51,9 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 	* [Android端API接口文档](./技术文档/Android-Platform/document/app/API.md)
 
 * PC端
-	* [PC端开发概述]
+	* [PC端开发概述](./技术文档/PC/README.md)
 	* [PC端开发注意事项]
 
 * H5端
-	* [H5端开发概述]
+	* [H5端开发概述](./技术文档/H5/README.md)
 	* [H5端开发注意事项]
