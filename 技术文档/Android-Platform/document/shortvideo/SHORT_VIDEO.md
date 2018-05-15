@@ -27,4 +27,4 @@
 - com.tym.shortvideo.filter.base.gpuvideo.GLDefaultFilterGroup 这里配置录制滤镜组
 
 ps:视频录制所参考的[开源项目](https://github.com/CainKernel/CainCamera)
-不过，项目中视频相关都集成到了[这个demo](https://github.com/legendarytym/shorvideo/tree/tym)里面
+项目中视频相关都集成到了[这个demo](https://github.com/legendarytym/shorvideo/tree/tym)里面
