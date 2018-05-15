@@ -26,10 +26,20 @@
     C -->|Three| F[分享界面]
 ```
 
-####三.功能实现
-待完善。。
+#### 三.功能实现
+* MusicPlayService 音乐播放后台服务
+* PlaybackManager 音乐播放管理器
+* QueueManager 音乐播放队列管理器
+* LocalPlayback 音乐播放器
+* MusicProvider 音乐获取管理类
+* MusicDataConvert 音乐信息转换类
 
-更新时间：2017年2月23日18:43:22
+关键在于 MediaSession 通信
+
+#### 四.参考项目
+[谷歌官方demo](https://github.com/googlesamples/android-UniversalMusicPlayer)
+
+更新时间：2018年5月15日17:26:06
 
 
 
