@@ -13,6 +13,7 @@
 >- [图片浏览器](../app/GALLERY.md)
 >- [Lint 检测说明](../app/LINT.md)
 >- [音乐 FM](../app/MUSIC_FM.md)
+>- [音乐 FM](../shortvideo/SHORT_VIDEO.md)
 >- [文件上传逻辑说明](../app/UPLOADFILE.md)
 >- [RxBinding 的使用](../app/RXBINDING.md)
 
