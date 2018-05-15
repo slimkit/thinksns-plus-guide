@@ -3,7 +3,7 @@
 
 ##  1.概述
 1. 短视频包含 录制、滤镜、压缩、时长剪切等功能
-2. 播放视频 用 https://github.com/lipangit/JiaoZiVideoPlayer
+2. [视频播放器](https://github.com/lipangit/JiaoZiVideoPlayer)
 
 
 
