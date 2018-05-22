@@ -29,7 +29,7 @@
 
 **注意:**iOS端,对于使用，人开发者账号、公司开发者账号的应用,要想将自己的应用分发给其他用户的 iOS 设备,只能通过将要安装设备的 UDID 添加到应用的 mobileprovision 文件中来实现.
 
-* [UDID添加说明](/技术文档/iOS端/UDID添加说明.md)
+* [UDID添加说明](../../../iOS端/UDID添加说明.md)
 
 1. 开发者注册资料
     费用：请参考具体平台
@@ -168,7 +168,7 @@
 
 ### 移动端应用内使用素材
 
-iOS端查看[iOS应用配置](技术文档/iOS端/TS+%20iOS端应用配置.md)
+iOS端查看[iOS应用配置](../../../iOS端/TS+%20iOS端应用配置.md)
 
 安卓端请查看[二次开发资料替换文档](SecondaryDevelopmentResourceReplaceTutorial.md)
 
