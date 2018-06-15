@@ -1,4 +1,4 @@
-﻿2018年5月15日17:49:01 update by Jliuer@aliyun.com
+﻿ 2018-6-15 15:29:14 update by Jliuer@aliyun.com
 # 项目中的短视频一条龙文档
 
 ##  1.概述
