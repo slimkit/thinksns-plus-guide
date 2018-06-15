@@ -27,7 +27,7 @@
 - com.tym.shortvideo.filter.base.gpuvideo.GLDefaultFilterGroup 这里配置录制滤镜组
 
 ## 5.项目更改
-1. <a name="为了减少包体积，已经移除该功能">为了减少包体积，已经移除滤镜纹理文件，需要这些文件</a>
+1. <a name="为了减少包体积，已经移除该功能">为了减少包体积，已经移除滤镜纹理文件，如果需要用到这些文件，请将 video 这个目录下 ‘filter’和‘filters’两个文件夹剪切至video目录 src\main\assets 中</a>
 
 ps:视频录制所参考的[开源项目](https://github.com/CainKernel/CainCamera)
 项目中视频相关都集成到了[这个demo](https://github.com/legendarytym/shorvideo/tree/tym)里面
