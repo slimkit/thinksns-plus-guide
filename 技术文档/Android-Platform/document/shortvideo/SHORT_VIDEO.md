@@ -8,7 +8,7 @@
 
 
 ## 2.关键包结构说明 （module video）
-- filter 滤镜相关
+- filter 滤镜相关 (<a href="#为了减少包体积，已经移除该功能">为了减少包体积，已经移除滤镜纹理文件</a>)
 - mediacodec 视频时长剪辑
 - recodrender 视频录制预览界面绘制与渲染，
 - recordcore 视频录制核心功能，包含编解码与合并
@@ -25,6 +25,9 @@
 - com.tym.shortvideo.filter.helper.type.TextureRotationUtils 这里配置录制顶点坐标与纹理坐标
 - com.tym.shortvideo.filter.helper.type.TextureRotationUtils 这里配置录制顶点坐标与纹理坐标
 - com.tym.shortvideo.filter.base.gpuvideo.GLDefaultFilterGroup 这里配置录制滤镜组
+
+## 5.项目更改
+1. <a name="为了减少包体积，已经移除该功能">为了减少包体积，已经移除滤镜纹理文件，需要这些文件</a>
 
 ps:视频录制所参考的[开源项目](https://github.com/CainKernel/CainCamera)
 项目中视频相关都集成到了[这个demo](https://github.com/legendarytym/shorvideo/tree/tym)里面
