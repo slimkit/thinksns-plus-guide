@@ -4,7 +4,7 @@
 
 ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 
-如果有任何问题需要反馈,请联系`TS+`商务人员或者查阅[常见问题](https://github.com/zhiyicx/thinksns-plus-help).
+如果有任何问题需要反馈,请联系`TS+`商务人员或者查阅[常见问题](/questions/ThinkSNSPlusHelp.md).
 
 ## 代码交付说明
 
