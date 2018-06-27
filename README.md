@@ -24,6 +24,7 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 	tsauth/master-live   -->  tsauth/master-live-backup
 	
 	```
+> **备注**：客户使用时需要新建自己的分支，以上分支仅用于接收 `TS+` 最新源码。
 
 ## 服务文档资料
 
