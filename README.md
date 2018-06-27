@@ -12,6 +12,19 @@ ThinkSNS+ 产品使用指南,记录`TS+`全部产品使用手册等内容.
 
 * [移动端打包上线所需资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
 
+## TS+ 授权分支说明
+	
+1. 统一前缀 `tsauth/`	
+2. 大版本分支统一使用数字加小数点形式，例如：`tsauth/1.7`、`tsauth/1.8`
+3. 当前最新版本为 `tsauth/master`, 直播版为 `tsauth/master-live`
+4. 以上分支统一称为授权分支，如果客户修改了授权分支的代码，最新代码统一在授权分支后追加 `-backup`,例如：
+	
+	```
+	tsauth/master 		 -->  tsauth/master-backup
+	tsauth/master-live   -->  tsauth/master-live-backup
+	
+	```
+
 ## 服务文档资料
 
 * [产品介绍]
