@@ -41,8 +41,7 @@
 	- MySQL >= 5.6
 	- Nginx >= 1.10
 
-
-	![](https://tsplus.zhibocloud.cn/api/v2/files/9987)
+	![image1](https://image.zhibocloud.cn/2018/06/14/0316/1Vhven5NfzXQOwYQUYBL5hT1feJORErsahzBhl7N.png)
 
 4. 克隆代码并赋予777权限
 	```
@@ -52,19 +51,19 @@
 	
 5. 创建站点并创建数据库
 
-	![](https://tsplus.zhibocloud.cn/api/v2/files/9993)
+	![](https://image.zhibocloud.cn/2018/06/14/0837/GHvZ2KSVLalgJBstrqm17VVIbQH2FJyzwV30mw8x.png)
 
 	> 域名为准备好的域名
  
 	> 根目录地址为/www/wwwroot/plus
 
-	![](https://tsplus.zhibocloud.cn/api/v2/files/9986)
+	![](https://image.zhibocloud.cn/2018/06/14/0314/ysEMnz9vfmsMLFBosqkKMy9lQd6HvyfOSF8pGZt0.png)
 	
 	> 修改站点伪静态规则
 
 6. 创建数据库
 
-    ![](https://tsplus.zhibocloud.cn/api/v2/files/9991)
+    ![](https://image.zhibocloud.cn/2018/06/14/0641/GKifET1ZGKnYU31btK0ztLWjnzG5wVbbTqUoD18m.png)
 
 7. 安装程序
 
@@ -163,7 +162,7 @@
 5. [创建自定义地图](http://yuntu.amap.com/datamanager/)
 6. 将KEY1中的KEY，密钥，自定义地图中的table_id填写至后台
 7. 若有H5拓展包，将KEY2中的KEY填写至H5根目录.env中的VUE_APP_LBS_GAODE_KEY上
-![image](https://tsplus.zhibocloud.cn/api/v2/files/10717)
+![image](https://image.zhibocloud.cn/2018/07/02/0904/LnFuiPPy6lRYT6t9d0ImXVVtCktcGNXITjC5yKEb.gif)
 
 ### CDN配置
 #### 阿里云OSS
@@ -173,7 +172,7 @@
 4. 创建镜像源
 5. 创建密钥
 6. 填写相关内容至后台
-![image](https://tsplus.zhibocloud.cn/api/v2/files/10752)
+![image](https://image.zhibocloud.cn/2018/07/03/0232/S8tbkSK2E2cXGkN2egPybL6xRxY3FLksOjSV3X4G.gif)
 
 #### 七牛云
 1. 注册账号，进入[七牛云对象存储](https://portal.qiniu.com/bucket/plus-demo/index)管理面板
@@ -181,7 +180,7 @@
 3. 创建镜像源
 4. 创建密钥
 5. 填写相关内容至后台
-![image](https://tsplus.zhibocloud.cn/api/v2/files/10756)
+![image](https://image.zhibocloud.cn/2018/07/03/0247/4ZdIt2sAZhwU3ivyDSxPmHpiACbbREOMzJN0AS5F.gif)
 
 ### 短信配置
 #### 阿里云
@@ -190,7 +189,7 @@
 3. 应用开发-签名管理，创建签名
 4. 应用开发-模板管理，添加模板
 5. 将相关信息填写至后台
-![image](https://tsplus.zhibocloud.cn/api/v2/files/10757)
+![image](https://image.zhibocloud.cn/2018/07/03/0303/dvoJ2N4vEgOBNbEUAYMRyI6TYinRKZ96cYusZtre.gif)
 
 #### 云片
 1. 注册账号，进入[云片](https://www.yunpian.com/admin/main)管理面板
