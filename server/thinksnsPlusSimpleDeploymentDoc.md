@@ -40,8 +40,9 @@
 
 	- MySQL >= 5.6
 	- Nginx >= 1.10
-    
-        ![](https://tsplus.zhibocloud.cn/api/v2/files/9987)
+
+
+	![](https://tsplus.zhibocloud.cn/api/v2/files/9987)
 
 4. 克隆代码并赋予777权限
 	```
@@ -50,20 +51,25 @@
 	```
 	
 5. 创建站点并创建数据库
+
 	![](https://tsplus.zhibocloud.cn/api/v2/files/9993)
-    >域名为准备好的域名
+
+	> 域名为准备好的域名
  
-	>根目录地址为/www/wwwroot/plus
+	> 根目录地址为/www/wwwroot/plus
 
 	![](https://tsplus.zhibocloud.cn/api/v2/files/9986)
-	>修改站点伪静态规则
+	
+	> 修改站点伪静态规则
 
 6. 创建数据库
+
     ![](https://tsplus.zhibocloud.cn/api/v2/files/9991)
 
 7. 安装程序
 
 	程序根目录执行一下命令
+	
 	```
 	php -r "file_exists('.env') || copy('.env.example', '.env');"
 	composer install 
@@ -73,6 +79,7 @@
 	浏览器访问域名/installer进入安装程序，按照步骤及提示，依次执行完成安装
 	
 8. 发布静态资源并链接到public目录
+
 	```
 	php artisan vendor:publish --all
 	php artisan storage:link
