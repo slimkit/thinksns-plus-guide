@@ -162,6 +162,7 @@
 5. [创建自定义地图](http://yuntu.amap.com/datamanager/)
 6. 将KEY1中的KEY，密钥，自定义地图中的table_id填写至后台
 7. 若有H5拓展包，将KEY2中的KEY填写至H5根目录.env中的VUE_APP_LBS_GAODE_KEY上
+8. 图片显示失败，[请点击这里查看](https://image.zhibocloud.cn/2018/07/02/0904/LnFuiPPy6lRYT6t9d0ImXVVtCktcGNXITjC5yKEb.gif)
 ![image](https://image.zhibocloud.cn/2018/07/02/0904/LnFuiPPy6lRYT6t9d0ImXVVtCktcGNXITjC5yKEb.gif)
 
 ### CDN配置
@@ -172,6 +173,7 @@
 4. 创建镜像源
 5. 创建密钥
 6. 填写相关内容至后台
+7. 图片显示失败，[请点击这里查看](https://image.zhibocloud.cn/2018/07/03/0232/S8tbkSK2E2cXGkN2egPybL6xRxY3FLksOjSV3X4G.gif)
 ![image](https://image.zhibocloud.cn/2018/07/03/0232/S8tbkSK2E2cXGkN2egPybL6xRxY3FLksOjSV3X4G.gif)
 
 #### 七牛云
@@ -180,6 +182,7 @@
 3. 创建镜像源
 4. 创建密钥
 5. 填写相关内容至后台
+6. 图片显示失败，[请点击这里查看](https://image.zhibocloud.cn/2018/07/03/0247/4ZdIt2sAZhwU3ivyDSxPmHpiACbbREOMzJN0AS5F.gif)
 ![image](https://image.zhibocloud.cn/2018/07/03/0247/4ZdIt2sAZhwU3ivyDSxPmHpiACbbREOMzJN0AS5F.gif)
 
 ### 短信配置
@@ -189,6 +192,7 @@
 3. 应用开发-签名管理，创建签名
 4. 应用开发-模板管理，添加模板
 5. 将相关信息填写至后台
+6. 图片显示失败，[请点击这里查看](https://image.zhibocloud.cn/2018/07/03/0303/dvoJ2N4vEgOBNbEUAYMRyI6TYinRKZ96cYusZtre.gif)
 ![image](https://image.zhibocloud.cn/2018/07/03/0303/dvoJ2N4vEgOBNbEUAYMRyI6TYinRKZ96cYusZtre.gif)
 
 #### 云片
