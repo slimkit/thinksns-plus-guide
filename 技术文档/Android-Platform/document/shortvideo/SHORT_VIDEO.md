@@ -1,4 +1,4 @@
-﻿ 2018-6-15 15:29:14 update by Jliuer@aliyun.com
+﻿2018-7-5 10:07:55 update by Jliuer@aliyun.com
 # 项目中的短视频一条龙文档
 
 ##  1.概述
@@ -26,7 +26,7 @@
 - com.tym.shortvideo.filter.helper.type.TextureRotationUtils 这里配置录制顶点坐标与纹理坐标
 - com.tym.shortvideo.filter.base.gpuvideo.GLDefaultFilterGroup 这里配置录制滤镜组
 
-## 5.项目更改
+## 5.关于 x86 类型 cpu 支持说明
 1. <a name="为了减少包体积，已经移除该功能">为了减少包体积，已经移除滤镜纹理文件，如果需要用到这些文件，请将 video 这个目录下 ‘filter’和‘filters’两个文件夹剪切至video目录 src\main\assets 中</a>
 2. 为了减少包体积，已经移除x86类型 so 文件，如果需要用到这些文件，请将 video 这个目录下 ‘x86’和‘x86_64’两个文件夹剪切至video目录 src\main\jniLibs 中</a>
 
