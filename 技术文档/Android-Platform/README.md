@@ -112,6 +112,10 @@ android {
 - [创建签名文件说明](document/tutorial/AndroidCreateSignatureFileTutorial.md)
 - [打包说明](document/tutorial/AndroidPackageTutorial.md)
 
+## 项目x86支持说明
+- [关于环信](document/easeui/CHAT.md)
+- [关于短视频](document/shortvideo/SHORT_VIDEO.md)
+
 ## 文档位置说明
 
 本工程文档统一记录在`ThinksnsPlus/document`文件夹下.
