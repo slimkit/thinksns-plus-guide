@@ -17,7 +17,7 @@
 >- [Lint 检测说明](../app/LINT.md)
 >- [音乐 FM](../app/MUSIC_FM.md)
 >- [短视频](../shortvideo/SHORT_VIDEO.md)
->- [环信](../easeui/Chat.md)
+>- [环信](../easeui/CHAT.md)
 >- [文件上传逻辑说明](../app/UPLOADFILE.md)
 >- [RxBinding 的使用](../app/RXBINDING.md)
 
