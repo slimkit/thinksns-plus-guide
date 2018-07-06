@@ -12,6 +12,7 @@
 - [服务文档资料](#服务文档资料)
 - [产品使用文档](#产品使用文档)
 - [产品技术文档](#产品技术文档)
+- [常见问题](#常见问题)
 
 
 
@@ -53,9 +54,10 @@
 ### 产品技术文档
 
 * 通用
-	* [产品UI设计规范]()
+	* [产品UI设计规范](./技术文档/common/README.md)
 	* [移动端打包上线所需资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
 	* [PC 、H5 三方申请及配置文档](./技术文档/common/pc-h5-third-config.md)
+	* [广告图大小规则说明文档](./技术文档/common/ADVERT_DES.md)
 
 * 服务端
 	* [服务端文档](https://slimkit.github.io/)
@@ -91,3 +93,13 @@
 * H5端
 	* [H5端开发概述](https://github.com/zhiyicx/plus-component-h5/blob/master/README.md)
 	* [H5开发者手册](https://github.com/zhiyicx/plus-component-h5/blob/master/DOCUMENT.md)
+
+
+
+### [常见问题](./questions/ThinkSNSPlusHelp.md) 
+
+* [服务端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3APHP)
+* [iOS端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AIOS)
+* [Android端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AAndroid)
+* [PC端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3APC)
+* [H5](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AH5)
