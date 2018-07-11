@@ -82,9 +82,26 @@ assets目录包含前后台的静态资源文件，views目录包含所有的Bla
    php artisan package:handle pc link
    ```
 
-## 开发指南
+## 注意事项
 1. PC拓展包数据均通过内部请求调用[ThinkSNS Plus](https://slimkit.github.io/docs/api-v2-overview.html)接口获得，不涉及相关业务逻辑，若需修改，请到接口对应程序位置。
 2. 若需要修改js插件源码，需要修改后执行yarn prod命令进行编译，生成新的js文件，详见webpack.mix.js。
 3. 若需要使用三方登录功能，需要后台PC管理-三方登录配置相关信息。
 4. 若修改后台配置后，必须根目录执行`php artisan cache:clear`或前往后台PC管理点击清除缓存。
 5. 图标采用的是阿里云的[iconfont](http://www.iconfont.cn/)，若需要修改图片，请联系我们将您拉进图标库后，自行创建仓库导入后新增修改。
+6. 三方配置回调域：
+  ~~~
+  QQ
+  网站回调域：绑定域名/socialite/qq/callback
+  如：http://tsplus.zhibocloud.cn/socialite/qq/callback
+
+  微信开放平台
+  授权回调域：绑定域名即可
+  如：tsplus.zhibocloud.cn
+
+  微博开放平台
+  应用地址：绑定域名
+  如：http://tsplus.zhibocloud.cn
+  安全域名：可填写多个，必须把绑定域名填写在其中，去掉http://或者https://
+  如：tsplus.zhibocloud.cn
+  ~~~
+
