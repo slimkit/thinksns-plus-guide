@@ -147,7 +147,7 @@
    ```
    
 ### H5安装
-1. 安装[yarn](https://yarnpkg.com/zh-Hans/docs/install#alternatives-stable)或npm,**nodejs需要>=8**
+1. 安装[yarn](https://yarnpkg.com/zh-Hans/docs/install#alternatives-stable)或npm,**nodejs需要>=10**
 2. 克隆H5仓库代码到任意目录
 3. 修改.env.example文件名为.env并修改其中配置
 
