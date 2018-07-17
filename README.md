@@ -60,11 +60,12 @@
 	* [广告图大小规则说明文档](./技术文档/common/ADVERT_DES.md)
 
 * 服务端
-	* [服务端文档](https://slimkit.github.io/)
-	* [简易部署与配置文档](./技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
+	
+	* [简易部署与三方配置文档](./技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
 	* [服务端旧版部署视频](http://www.thinksns.com/reader/100.html)
 	* [服务端 Api 文档](https://slimkit.github.io/docs/api-v2-overview.html)
 	* [服务端数据字典](https://slimkit.github.io/docs/data-fields.html)
+	* [二次开发快速入门](https://slimkit.github.io/docs/server-guides-package.html)
 	
 
 * iOS端
