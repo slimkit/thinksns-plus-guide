@@ -1,5 +1,25 @@
-2018年05月02日14:53:55
-# 二次开发资料替换说明文档
+2018年07月17日18:03:50
+# 二次开发三方与素材替换说明文档
+
+## 目录
+
+* [包名应用签名替换](#包名应用签名替换)
+* [第三方账号配置](#第三方账号配置) 
+	* 友盟
+	* 高德
+	* 极光
+	* QQ、微信、微博
+	* 环信
+* [服务器地址](#服务器地址)
+* [资源替换](#资源替换)
+	* APP图标替换
+	* 引导图替换
+	* 广告底部 logo
+	* 发布页 logo 图标替换
+	* 缺省信息图片替换
+	* 主页底部导航栏替换
+	* App 名字修改
+	* 修改主体颜色、文字大小、间距等
 
 
 
@@ -132,13 +152,14 @@
 
     apply plugin: 'com.android.library'
     android {
+       buildTypes {
     ...
         // 三方 key
         manifestPlaceholders = [
                 TECENT_APPID: 1105978541, // 腾讯 QQ id
     ...
         ]
-
+		}
     }
 
     ```
@@ -146,6 +167,34 @@
      **注意：** 分享和支付回掉需要根据您的包名来判断存放位置，例如：您的包名是 `com.guduk.www`,那么您需要在 `app/main/java/` 创建自己的包名路径，并将 `包wxapi` 下的代码和`WBShareActivity`移动过去。
 
     ![share_packge_change]
+
+5. 环信配置，修改环信 `EASEMOB_APPKEY`，位于 `baseproject/build.gradle`
+
+    ```
+    apply plugin: 'com.android.library'
+    android {
+    ...
+           buildTypes {
+        release {
+            // 三方 key
+            manifestPlaceholders = [
+        				...
+                    EASEMOB_APPKEY: "1139171207178196#thinksns-plus", // 环信三方配置正式打包版本
+            ]
+        }
+        debug {
+            // 三方 key
+            manifestPlaceholders = [
+     					...
+                    EASEMOB_APPKEY: "1120180716146578#yunmeoshequ", // 环信三方配置测试版本
+            ]
+        }
+    }
+        }
+    ...
+
+    ```
+
 
 ### 服务器地址
 1. 服务器地址与接口地址都位置 `baseproject/src/main/java/config/Apiconfig.class` 中。修改 `APP_DOMAIN_FORMAL` 即可。
@@ -250,6 +299,8 @@
 ```
 
 #### 8. 修改主体颜色、文字大小、间距等。
+
+相关文件`colors_tsp_style.xml`、`dimens_tsp_font_size.xml`、`dimens_tsp_spacing.xml`位于`baseproject/src/main/res/values`下。
 
 具体信息可以查看 [视觉文档](../design/DESIGN.md)
 
