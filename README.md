@@ -71,7 +71,7 @@
 * iOS端
 	* [iOS端开发须知](./技术文档/iOS端/README.md)
 	* [iOS端二次开发文档](./技术文档/iOS端/Thinksns%20Plus%20Document)
-	* [iOS端应用配置](./技术文档/iOS端/TS+%20iOS端应用配置.md)
+	* [iOS端二次开发三方与素材替换说明文档](./技术文档/iOS端/TS+%20iOS端应用配置.md)
 	* [APP Store上架指导](./技术文档/iOS端/APPStore上架指导.md)
 	* [iOS端打包操作指导](http://www.jianshu.com/p/9df7d8930a3e)
 	* [SSL证书类型说明](./技术文档/iOS端/SSL证书类型说明.md)
@@ -82,7 +82,7 @@
 	* [Android端二次开发文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentTutorial.md)
 	* [BUG-友盟统计](https://passport.umeng.com/signup)
 	* [第三方账号申请指导](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
-	* [Android端素材替换文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentResourceReplaceTutorial.md)
+	* [Android端二次开发三方与素材替换说明文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentResourceReplaceTutorial.md)
 	* [Android签名文件](./技术文档/Android-Platform/document/tutorial/AndroidCreateSignatureFileTutorial.md)
 	* [Android端打包操作指导](./技术文档/Android-Platform/document/tutorial/AndroidPackageTutorial.md)
 	* [Android端API接口文档](./技术文档/Android-Platform/document/app/API.md)
@@ -100,7 +100,7 @@
 ### [常见问题](./questions/ThinkSNSPlusHelp.md) 
 
 * [服务端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3APHP)
-* [iOS端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AIOS)
-* [Android端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AAndroid)
-* [PC端](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3APC)
+* [iOS](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AIOS)
+* [Android](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AAndroid)
+* [PC](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3APC)
 * [H5](https://github.com/slimkit/thinksns-plus-guide/issues?q=is%3Aopen+is%3Aissue+label%3AH5)
