@@ -1,12 +1,38 @@
 # TS+ iOS端应用配置
 
-* 目录
-	* [简单界面调整](#简单界面调整)
-	* [图片素材替换](#图片素材替换)
-	* [分享内容配置]#(暂无)
+##  目录
+* [服务器地址](#服务器地址)
+* [第三方账号配置](#第三方账号配置) 
+	* 高德
+	* 极光
+	* QQ、微信、微博
+	* 环信
+* [简单界面调整](#简单界面调整)
+* [图片素材替换](#图片素材替换)
 
 
-## 简单界面调整
+
+### 服务器地址
+服务器地址更换,位于`/Global/AppConfig/AppEnvironment.plist`文件中，需要把`develop`和`production`中对应的`address`修改为你的服务器地址。
+ 
+ ![](./images/pic_ios_address.jpeg)
+
+### 第三方账号配置
+
+1. 高德配置 ,位于`/Global/AppConfig/AppEnvironment.plist`文件中的`AMapApiKey`修改为对应的值即可
+ 
+2. 极光配置 ,位于`/Global/AppConfig/AppEnvironment.plist`文件中的`jPushKey`修改为对应的值即可
+
+3. QQ、微信、微博配置,需要修改两处地方。 a. `ShareConfig`中的对应三方key；b. `info.plist`
+中的 URL Types,如图
+
+![](./images/pic_ios_share.jpeg)	
+
+4. 环信配置，位于`/Global/AppConfig/AppEnvironment.plist`文件中，需要把`develop`和`production`中对应的`imAppKey`、`imApnsName`修改为你的服务器地址。
+
+![](./images/pic_ios_huanxin.jpeg)
+
+### 简单界面调整
 
 本应用的UI设计是按照的`ThinkSNS Plus Plus 视觉规范`.颜色记录在`~/CustomUIKit/TSUserInterfacePrinciples/TSColor.swift`,字号记录在`~/CustomUIKit/TSUserInterfacePrinciples/TSFont.swift`,部分通用控件如弹窗记录在`~/CustomUIKit/`文件夹内.
 
@@ -14,7 +40,7 @@
 
 修改 `~/SupportFile/InfoPlist.strings` 文件内的 CFBundleDisplayName 值.**注意**此处有两个文件, 分别对应英文设备和中文设备下应用的名称.
 
-## 图片素材替换
+### 图片素材替换
 
 本工程所有图片素材记录在`~/Assets.xcassets/`内.将新的图片生成旧图片一样的规格一致的文件名称后,将新图片覆盖对应文件夹内的图片即可.
 
@@ -166,6 +192,6 @@ icon_1024iPhoneSpootlight7_40pt@3x.png
 * 备注：如果更换启动图后，在LaunchScreen.storyboard中已看到启动图更改，但实际运行时仍然显示原来的启动图时的解决方案：清空xcode缓存、模拟器缓存、再注销用户重新登录。
 
 
-## 分享内容配置
+### 分享内容配置
 
 目前本应用可分享到QQ空间,QQ好友,新浪微博以及微信朋友圈和微信好友四处,分享内容包括文字,图片,视频,链接等.(详情查看对应平台文档说明)
