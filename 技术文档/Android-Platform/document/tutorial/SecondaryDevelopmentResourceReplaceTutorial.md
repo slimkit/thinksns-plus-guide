@@ -197,6 +197,9 @@
 
 
 ### 服务器地址
+
+#### 系统版
+
 1. 服务器地址与接口地址都位置 `baseproject/src/main/java/config/Apiconfig.class` 中。修改 `APP_DOMAIN_FORMAL` 即可。
 
 ```
@@ -221,6 +224,29 @@
         ...
 
 ```
+
+#### 直播版
+
+1. 同样需要和系统版一样配置`APP_DOMAIN_FORMAL`，同时还需要配置直播服务器地址，以及直播中用到的IM地址与端口；
+
+2. 直播域名与路径、版本号修改修改：`zhibolibrary/src/main/java/com/zhiyicx/zhibolibrary/model/api/ZBLApi.java`中进行修改
+	
+	```
+	 // 直播服务器地址，更具自己的修改
+	    public static final String ZHIBO_BASE_URL = "http://zts.zhibocloud.cn";
+	 // 版本号，更具需要修改
+	    public static final String ZHIBO_BASE_VERSION = "1.0";
+	     // 应用服务器对接直播服务器的协议地址：更具需求修改
+	    public static String CONFIG_EXTRAL_URL = "api";
+	```
+3. IM地址与端口，位于`oldimsdk/src/main/java/com/zhiyicx/old/imsdk/service/ImService.java`
+ 
+ ```
+ 	private static final String WEB_SOCKET_PORT = "9902"; //端口修改
+	private static final String WEB_SOCKET_HOST = "114.215.203.142"; // 地址修改
+ 
+ ```
+
 
 ### 资源替换
 
