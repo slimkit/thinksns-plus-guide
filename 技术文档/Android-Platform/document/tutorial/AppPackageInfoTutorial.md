@@ -44,83 +44,83 @@
     费用：免费
 
     说明：
-    - 注册地址：http://id.amap.com/register/index
+    - [注册地址](http://id.amap.com/register/index)
     - 必须申请成为个人开发者或者企业开发者
     - 企业开发者拥有更高的使用权限，方便app大量用户同时使用定位功能。
-    - 认证地址：http://lbs.amap.com/dev/register#/personal
-    - 认证需要资料：http://lbs.amap.com/dev/ticket#/faq/20
-    - Key 获取：登录后在`控制台-应用管理`创建应用并获取 `Key`,地址 http://lbs.amap.com/dev/key/app
-    - 文档中心：http://lbs.amap.com/api/
+    - [认证地址](http://lbs.amap.com/dev/register#/personal)
+    - [认证需要资料](http://lbs.amap.com/dev/ticket#/faq/20)
+    - Key 获取：登录后在`控制台-应用管理`创建应用并获取 `Key`,[地址](http://lbs.amap.com/dev/key/app)
+    - [文档中心](http://lbs.amap.com/api/)
 
 3. 腾讯QQ
 
     费用：免费
 
     说明：
-    - 注册地址：https://ssl.zc.qq.com/chs/index.html
+    - [注册地址](https://ssl.zc.qq.com/chs/index.html)
     - 必须申请成为个人开发者或者企业开发者
     - 企业开发者拥有更高的使用权限，这个影响不大。
-    - 认证地址：http://open.qq.com/reg
-    - 认证需要资料：http://open.qq.com/reg
-    - Key 获取： 登录后在`管理中心`创建应用并获取`App Id、与 APP Key` 地址：http://op.open.qq.com/manage_centerv2/android?owner=335891510&uin=335891510
-    - 文档地址：http://wiki.open.qq.com/wiki/%E6%B3%A8%E5%86%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%B8%90%E5%8F%B7
+    - [认证地址](http://open.qq.com/reg)
+    - [认证需要资料](http://open.qq.com/reg)
+    - Key 获取： 登录后在`管理中心`创建应用并获取`App Id、与 APP Key` [地址](http://op.open.qq.com/manage_centerv2/android?owner=335891510&uin=335891510)
+    - [文档地址](http://wiki.open.qq.com/wiki/%E6%B3%A8%E5%86%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%B8%90%E5%8F%B7)
 
-4. 微信
+4. 微信（开放平台和公众平台）
 
     费用：使用免费，认证费用300MB/年
 
     说明：
-    - 注册地址：https://open.weixin.qq.com
+    - 注册地址：[开放平台](https://open.weixin.qq.com) ---  [公众平台](https://mp.weixin.qq.com/)
     - 必须申请开发者认证
     - 企业开发者拥有更高的使用权限，这个影响不大。
-    - 认证地址：https://open.weixin.qq.com/verify
-    - 认证需要资料：https://open.weixin.qq.com/verify
-    - Key 获取： 登录后在`管理中心`创建应用并获取`App Id、与 APP Key` 地址：https://open.weixin.qq.com/cgi-bin/applist?t=manage/list&lang=zh_CN&token=8f562b868d3d6120b8f09130c668a20f68b4afb0
-    - 文档中心: https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&lang=zh_CN
-
+    - [认证地址](https://open.weixin.qq.com/verify)
+    - [认证需要资料](https://open.weixin.qq.com/verify)
+    - Key 获取： 登录后在`管理中心`创建应用并获取`App Id、与 APP Key` [地址](https://open.weixin.qq.com/cgi-bin/applist?t=manage/list&lang=zh_CN&token=8f562b868d3d6120b8f09130c668a20f68b4afb0)
+    - [文档中心]( https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&lang=zh_CN)
+    
 5. 新浪微博
 
     费用：免费
 
     说明：
-    - 注册地址：http://weibo.com/signup/signup.php
+    - [注册地址](http://weibo.com/signup/signup.php)
     - 必须申请成为个人开发者或者公司开发者
     - 公司开发者可以创建“微应用”。TS没有使用“微应用”服务。
     - 个人开发者后期可以成为公司开发者。
-    - 认证地址：http://open.weibo.com/developers/basicinfo?dev_type=1
-    - 认证需要资料：http://open.weibo.com/developers/basicinfo?dev_type=1
-    - Key 获取：登录后在`我的应用-管理中心`，创建应用并获取`AppId、SecretKey`,地址：http://open.weibo.com/developers
-    - 文档中心：http://open.weibo.com/wiki/%E9%A6%96%E9%A1%B5
+    - [认证地址](http://open.weibo.com/developers/basicinfo?dev_type=1)
+    - [认证需要资料](http://open.weibo.com/developers/basicinfo?dev_type=1)
+    - Key 获取：登录后在`我的应用-管理中心`，创建应用并获取`AppId、SecretKey`,[地址](http://open.weibo.com/developers)
+    - [文档中心](http://open.weibo.com/wiki/%E9%A6%96%E9%A1%B5)
 
 6. 友盟
 
     费用：免费
 
     说明：
-    - 注册地址：https://passport.umeng.com/signup
+    - [注册地址](https://passport.umeng.com/signup)
     - 必须申请成为个人开发者或者公司开发者
     - 企业开发者拥有更高的使用权限，这个影响不大。
-    - 认证地址：https://passport.umeng.com/signup
-    - 认证需要资料：https://passport.umeng.com/signup
-    - Key 获取：登录后在`个人中心-U-APP-管理`创建应用并获取`AppKey`，地址：http://mobile.umeng.com/apps/f0870068d05c89df71d28545/edit
-    - 文档中心：http://www.umeng.com/codecenter.html
+    - [认证地址](https://passport.umeng.com/signup)
+    - [认证需要资料](https://passport.umeng.com/signup)
+    - Key 获取：登录后在`个人中心-U-APP-管理`创建应用并获取`AppKey`，[地址](http://mobile.umeng.com/apps/f0870068d05c89df71d28545/edit)
+    - [文档中心](http://www.umeng.com/codecenter.html)
 
 7. 极光推送
 
     费用：限制免费
 
     说明：
-    - 注册地址：https://www.jiguang.cn/accounts/register
+    - [注册地址](https://www.jiguang.cn/accounts/register)
     - 如对推送到达率和效率有特殊要求，建议购买收费版本，这样推送达到率和执行率都有所提高！
-    - Key 获取：登录后在`开发者服务-极光推送-立即体验`创建应用并获取`AppKey` 地址：https://www.jiguang.cn/dev/#/app/47bfbb7de80040acbb5c3749/info
-    - 文档说明：http://docs.jiguang.cn/jpush/guideline/intro/
+    - Key 获取：登录后在`开发者服务-极光推送-立即体验`创建应用并获取`AppKey` [地址](https://www.jiguang.cn/dev/#/app/47bfbb7de80040acbb5c3749/info)
+    - [文档说明](http://docs.jiguang.cn/jpush/guideline/intro/)
 
 8. Github
 
     费用：私有仓库收费/公开仓库免费
 
     说明：
-    - 注册地址：https://github.com/
+    - [注册地址](https://github.com/)
     - 用途说明：用户贵公司的源代码接收与升级
 
 9. 环信即时聊天
@@ -128,11 +128,11 @@
 	费用：限制免费
 
 	说明：
-	- 注册地址：https://console.easemob.com/#/register?_k=pj0hec
+	- [注册地址](https://console.easemob.com/#/register?_k=pj0hec)
 	- 必须申请成为个人开发者或者公司开发者
 	- 建议购买收费版本，这样能使用语音视频通话，功能更全面
 	- key获取：登录环信后台账号之后，在应用列表点击该应用，在应用信息里面的“应用标识(AppKey)”
-	- 集成文档参考：http://docs.easemob.com/im/start
+	- [集成文档参考](http://docs.easemob.com/im/start)
 
 10. App 唯一标识
 
@@ -154,7 +154,7 @@
     - 宣传 banner： 450X300 需要 3 张。
 
 
-> **温馨提醒:** `三方 Key `获取时，将涉及到应用签名与打包，如不太清楚，请查看[打包教程](/AndroidPackageTutorial.md)与[创建签名教程](AndroidCreateSignatureFileTutorial.md),建议开发人员处理
+	> **温馨提醒:** `三方 Key `获取时，将涉及到应用签名与打包，如不太清楚，请查看[打包教程](/AndroidPackageTutorial.md)与[创建签名教程](AndroidCreateSignatureFileTutorial.md),建议开发人员处理
 
 
 11. Android 端签名所需资料
@@ -165,6 +165,8 @@
     - 您所在的城市或区域名称是什么？ 
     - 您所在的州或省份名称是什么？ 
     - 该单位的两字母国家代码是什么？
+
+    
 
 ### 移动端应用内使用素材
 

@@ -298,6 +298,23 @@
 
 #### 6. 主页底部导航栏替换，位于 `app/main/src/res/`,，此处以 `xhdip`文件下的说明，具体替换时，请同时替换`hdpi、xhdpi、xxhdpi、xxxhdpi`
 
+ - 首页底部导航背景色`/app/src/main/res/values/colors.xml`中的` <color name="home_bottom_navigate_bg">#363844</color>`
+ - 底部导航文字颜色`/app/src/main/java/com/zhiyicx/thinksnsplus/modules/home/HomeFragment.java`
+ 
+ 	```
+ 	    /**
+     * 改变导航栏按钮的状态
+     *
+     * @param position 当前 viewpager 的位置
+     */
+    private void changeNavigationButton(int position) {
+    		// 选中后的颜色 R.color.themeColor
+        int checkedColor = ContextCompat.getColor(getContext(), R.color.themeColor);
+          // 未选中的颜色
+        int unckeckedColor = ContextCompat.getColor(getContext(), R.color.home_bottom_navigate_text_normal);
+    }
+ 	```
+
 |名字 |大小（宽x高）| 说明 | 图标 |
 |:-----:|:-----:|:-----:|:-----:|
 | common_ico_bottom_add.png | 120x98| 加号  |![common_ico_bottom_add]|

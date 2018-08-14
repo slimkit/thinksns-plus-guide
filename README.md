@@ -62,10 +62,11 @@
 * 服务端
 	
 	* [简易部署与三方配置文档](./技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
-	* [服务端旧版部署视频](http://www.thinksns.com/reader/100.html)
+   * [二次开发快速入门](https://slimkit.github.io/docs/server-guides-package.html)
 	* [服务端 Api 文档](https://slimkit.github.io/docs/api-v2-overview.html)
 	* [服务端数据字典](https://slimkit.github.io/docs/data-fields.html)
-	* [二次开发快速入门](https://slimkit.github.io/docs/server-guides-package.html)
+	* [性能概述](./技术文档/server/performance.md)
+	* [服务端旧版部署视频](http://www.thinksns.com/reader/100.html)
 	
 
 * iOS端
@@ -80,13 +81,12 @@
 * Android端
 	* [Android端开发须知概述](./技术文档/Android-Platform/README.md)
 	* [Android端二次开发文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentTutorial.md)
-	* [BUG-友盟统计](https://passport.umeng.com/signup)
-	* [第三方账号申请指导](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
 	* [Android端二次开发三方与素材替换说明文档](./技术文档/Android-Platform/document/tutorial/SecondaryDevelopmentResourceReplaceTutorial.md)
 	* [Android签名文件](./技术文档/Android-Platform/document/tutorial/AndroidCreateSignatureFileTutorial.md)
 	* [Android端打包操作指导](./技术文档/Android-Platform/document/tutorial/AndroidPackageTutorial.md)
 	* [Android端API接口文档](./技术文档/Android-Platform/document/app/API.md)
-
+	* [第三方账号申请指导](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
+	
 * PC端
 	* [PC端开发概述](./技术文档/PC/README.md)
 
