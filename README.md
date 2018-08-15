@@ -54,11 +54,13 @@
 ### 产品技术文档
 
 * 通用
-	* [产品UI设计规范](./技术文档/common/README.md)
+
 	* [移动端打包上线所需资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
 	* [PC 、H5 三方申请及配置文档](./技术文档/common/pc-h5-third-config.md)
+	* [微信登录配置文档](./技术文档/common/wx-login-config.md)
 	* [广告图大小规则说明文档](./技术文档/common/ADVERT_DES.md)
-
+	* [产品UI设计规范](./技术文档/common/README.md)
+	
 * 服务端
 	
 	* [简易部署与三方配置文档](./技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
