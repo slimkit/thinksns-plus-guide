@@ -65,6 +65,8 @@
 * 服务端
 	
 	* [简易部署与三方配置文档](./技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
+	* [ThinkSNS Plus直播服务器配置文档](./技术文档/common/live_server_config.md)
+	* [直播IM部署文档](./技术文档/common/zhibo_im_config.md)
    * [二次开发快速入门](https://slimkit.github.io/docs/server-guides-package.html)
 	* [服务端 Api 文档](https://slimkit.github.io/docs/api-v2-overview.html)
 	* [服务端数据字典](https://slimkit.github.io/docs/data-fields.html)
