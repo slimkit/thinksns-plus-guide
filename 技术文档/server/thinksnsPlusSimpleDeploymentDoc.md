@@ -183,7 +183,7 @@
 1. 注册[高德](http://lbs.amap.com)账号，并成为开发者用户
 2. [创建应用](http://lbs.amap.com/dev/key/app)
 3. 添加KEY1
-4. 添加KEY2
+4. 添加KEY2，KEY2选择 Web端（JSAPI）
 5. [创建自定义地图](http://yuntu.amap.com/datamanager/)
 6. 将KEY1中的KEY，密钥，自定义地图中的table_id填写至后台
 7. 若有H5拓展包，将KEY2中的KEY填写至H5根目录.env中的VUE_APP_LBS_GAODE_KEY上
