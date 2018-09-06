@@ -93,6 +93,10 @@
 
 	![导入数据库](../../images/pic_zhibo_server_config.png)
 	然后配置服务器，里面的内容都是和七牛有关的了，切片地址可以在七牛直播空间中找到；主要配置就讲解完毕；
+	
+10. 直播服务器中的配置百度地图key,否则移动端的直播位置信息将以经纬度的形式显示 ，修改配置文件位于`application/config.php`
+
+	![百度地图配置](../../images/pic_live_baidu_ak.png)
 
 
 -----
