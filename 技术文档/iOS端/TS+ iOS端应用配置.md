@@ -13,9 +13,12 @@
 
 
 ### 服务器地址
-服务器地址更换,位于`/Global/AppConfig/AppEnvironment.plist`文件中，需要把`develop`和`production`中对应的`address`修改为你的服务器地址。
+1. 服务器地址更换,位于`/Global/AppConfig/AppEnvironment.plist`文件中，需要把`develop`和`production`中对应的`address`修改为你的服务器地址。
  
  ![](./images/pic_ios_address.jpeg)
+ 
+2. 直播版地址配置
+ ![](https://user-images.githubusercontent.com/7939686/45205264-3d790980-b2b4-11e8-88d2-108bc374eca0.png)
 
 ### 第三方账号配置
 
