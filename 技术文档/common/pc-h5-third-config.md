@@ -89,10 +89,22 @@
 
 
 ### 短信等其他
-其他山房请查看 [简易部署与配置文档](https://github.com/slimkit/thinksns-plus-guide/blob/master/技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
+其他三方请查看 [简易部署与配置文档](https://github.com/slimkit/thinksns-plus-guide/blob/master/技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
 
 ### 微信微博QQ回调配置
 
 ```
-QQ网站回调域：绑定域名/socialite/qq/callback如：http://tsplus.zhibocloud.cn/socialite/qq/callback微信开放平台账号授权回调域：绑定域名即可如：tsplus.zhibocloud.cn微博开放平台账号应用地址：绑定域名如：http://tsplus.zhibocloud.cn安全域名：可填写多个，必须把绑定域名填写在其中，去掉http://或者https://如：tsplus.zhibocloud.cn
+QQ
+网站回调域：绑定域名/socialite/qq/callback
+如：http://tsplus.zhibocloud.cn/socialite/qq/callback
+
+微信开放平台账号
+授权回调域：绑定域名即可
+如：tsplus.zhibocloud.cn
+
+微博开放平台账号
+应用地址：绑定域名
+如：http://tsplus.zhibocloud.cn
+安全域名：可填写多个，必须把绑定域名填写在其中，去掉http://或者https://
+如：tsplus.zhibocloud.cn
 ```
