@@ -73,6 +73,8 @@
 	* [服务端数据字典](https://slimkit.github.io/docs/data-fields.html)
 	* [性能概述](./技术文档/server/performance.md)
 	* [服务端旧版部署视频](http://www.thinksns.com/reader/100.html)
+	* [开发教程](https://slimkit.github.io/plus/guide/dev/blog/)
+	
 	
 
 * iOS端
