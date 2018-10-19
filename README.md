@@ -64,7 +64,7 @@
 	
 * 服务端
 	
-	* [2.0详细部署文档](https://slimkit.github.io/plus/guide/installation/install-plus.html#%E4%B8%8B%E8%BD%BD-plus-%E7%A8%8B%E5%BA%8F)
+	* [2.0+详细部署文档](https://slimkit.github.io/plus/guide/installation/install-plus.html#%E4%B8%8B%E8%BD%BD-plus-%E7%A8%8B%E5%BA%8F)
 	* [老版本简易部署与三方配置文档](./技术文档/server/thinksnsPlusSimpleDeploymentDoc.md)
 	* [ThinkSNS Plus直播服务器配置文档](./技术文档/common/live_server_config.md)
 	* [直播IM部署文档](./技术文档/common/zhibo_im_config.md)
@@ -72,7 +72,6 @@
 	* [服务端 Api 文档](https://slimkit.github.io/docs/api-v2-overview.html)
 	* [服务端数据字典](https://slimkit.github.io/docs/data-fields.html)
 	* [性能概述](./技术文档/server/performance.md)
-	* [服务端旧版部署视频](http://www.thinksns.com/reader/100.html)
 	* [开发教程](https://slimkit.github.io/plus/guide/dev/blog/)
 	
 	
