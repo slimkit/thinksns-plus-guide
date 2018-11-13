@@ -16,4 +16,16 @@
     
 #### 所需资料
 
-1. 账号文本信息： [基础班](./for-basic-version)
+1. 账号、文本信息：
+ 	-  [基础版](./for-basic-version.docx)
+ 	-  [系统版](./for-system-version.docx)
+ 	-  [直播版](./for-live-version.docx)
+
+ 	
+2. 相关内容替换，包括应用名、logodne等素材的替换，请参考`thinksns-plus-guide/deploy-package-res/resource` 文件中的内容
+
+> 备注：
+> 
+> 1. 账号文本信息请按照文档内容准确提供；
+> 2. 资源替换，请提供同大小、同名字的图片；
+> 3. 其他资料可查看 [移动端打包上线所需资料说明](./技术文档/Android-Platform/document/tutorial/AppPackageInfoTutorial.md)
