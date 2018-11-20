@@ -89,7 +89,7 @@
 	* [iOS端开发须知](./技术文档/iOS端/README.md)
 	* [iOS端二次开发文档](./技术文档/iOS端/Thinksns%20Plus%20Document)
 	* [iOS端二次开发三方与素材替换说明文档](./技术文档/iOS端/TS+%20iOS端应用配置.md)
-	* [APP Store上架指导](./技术文档/iOS端/APPStore上架指导.md)
+	* [IOS上架重要说明](./技术文档/iOS端/ThinkSNS-Plus-AppStore-Review-v1.0.md)
 	* [iOS端打包操作指导](http://www.jianshu.com/p/9df7d8930a3e)
 	* [SSL证书类型说明](./技术文档/iOS端/SSL证书类型说明.md)
 	* [iOS端二次开发常见问题集](./技术文档/iOS端/iOS端二次开发常见问题集.md)
