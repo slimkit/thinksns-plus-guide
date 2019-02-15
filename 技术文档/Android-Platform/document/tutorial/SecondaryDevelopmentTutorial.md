@@ -52,7 +52,8 @@
 >- [测试报告生成说明](../test/TESTREPORT.md)
 
 [imsdk](../imsdk/STRUCTURE.md) 聊天SDK概述
->- [IMSDK文档](../imsdk/MANUAL.md.md)
+>- [IMSDK文档](../imsdk/MANUAL.md)
+>- [IM消息离线推送文档](../imsdk/CAHT_OFFLINE_PUSH.md)
 
 [baseadapter-recyclerview](../baseadapter/BASEADAPTER.md) 基础列表Adapter
 
