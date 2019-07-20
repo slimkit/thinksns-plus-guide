@@ -4,7 +4,7 @@
 
 TS+ iOS code repository.
 
-该工程使用 swift 3.0 语言编写.支持 iOS 9.0 以上系统.XCode版本8.0.
+该工程使用 swift 4.2 语言编写.支持 iOS 9.0 以上系统.XCode版本10.0以上版本.
 
 重要说明记录在 README.md 文件.
 
