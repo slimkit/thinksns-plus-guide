@@ -28,13 +28,14 @@
 ### 代码分支说明
 	
 1. 统一前缀 `tsauth/`	
-2. 大版本分支统一使用数字加小数点形式，例如：`tsauth/1.7`、`tsauth/1.8`
-3. 当前最新版本为 `tsauth/master`, 直播版为 `tsauth/master-live`
+2. 大版本分支统一使用数字加小数点形式，例如：`tsauth/thinksns3`、`tsauth/1.8`
+3. 当前最新版本为 `tsauth/master`, 直播版为 `tsauth/master-live`，小程序`tsauth/miniprogram`
 4. 以上分支统一称为授权分支，如果客户修改了授权分支的代码，最新代码统一在授权分支后追加 `-backup`,例如：
 	
 	```
 	tsauth/master 		 -->  tsauth/master-backup
 	tsauth/master-live   -->  tsauth/master-live-backup
+	tsauth/miniprogram   -->  tsauth/miniprogram-backup
 	
 	```
 > **备注**：客户使用时需要新建自己的分支，以上分支仅用于接收 `TS+` 最新源码。
@@ -56,10 +57,19 @@
 
 ### 产品使用文档
 
+#### 2.x
 * [移动端使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f96170569dd.pdf)
 * [后台使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961d7a15a5.pdf)
 * [PC端使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961c19a9d7.pdf)
 * [H5使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961980fbe8.pdf)
+
+#### 3.x
+
+* [IOS版使用手册](./thinksns3/IOS版使用手册.pdf)
+* [Android版使用手册](./thinksns3/Android版使用手册.pdf)
+* [微信小程序版使用手册](./thinksns3/微信小程序版使用手册.pdf)
+* [管理后台使用手册](./thinksns3/后端使用手册.pdf)
+* [技术概要说明](./thinksns3/ThinkSNS-plusV3.pdf)
 
 ### 产品技术文档
 
@@ -70,6 +80,8 @@
 	* [原生支付配置文档](./技术文档/common/plus-pay-config.md)
 	* [广告图大小规则说明文档](./技术文档/common/ADVERT_DES.md)
 	* [产品UI设计规范](./技术文档/common/README.md)
+
+#### 2.x
 	
 * 服务端
 	
@@ -111,6 +123,26 @@
 	* [H5端开发概述](https://github.com/zhiyicx/plus-component-h5/blob/master/README.md)
 	* [H5开发者手册](https://github.com/slimkit/plus-small-screen-client/blob/master/CONTRIBUTING.md)
 
+
+#### 3.x
+
+* 服务端
+	
+	* 查看源码仓库 `README.md`与 `docs` 文件夹
+	
+
+* iOS端
+	* 查看源码仓库 `README.md`与 `Document` 文件夹
+
+* Android端
+	* 查看源码仓库 `README.md`与 `document` 文件夹
+
+* 小程序端
+	* 查看源码仓库 `README.md`
+
+
+
+----
 
 
 ### [常见问题](./questions/ThinkSNSPlusHelp.md) 
