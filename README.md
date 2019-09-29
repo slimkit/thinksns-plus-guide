@@ -122,6 +122,7 @@
 * H5端
 	* [H5端开发概述](https://github.com/zhiyicx/plus-component-h5/blob/master/README.md)
 	* [H5开发者手册](https://github.com/slimkit/plus-small-screen-client/blob/master/CONTRIBUTING.md)
+	* [H5目录结构说明](./技术文档/H5/CONSTRUCT.md)
 
 
 #### 3.x
