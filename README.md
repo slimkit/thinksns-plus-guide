@@ -38,7 +38,11 @@
 	tsauth/miniprogram   -->  tsauth/miniprogram-backup
 	
 	```
-> **备注**：客户使用时需要新建自己的分支，以上分支仅用于接收 `TS+` 最新源码。
+	
+> **备注**：
+> 
+	- 客户使用时需要新建自己的分支，以上分支仅用于接收 `TS+` 最新源码。
+	- 默认2.x的版本为 `tsauth/master` 分支; 3.x的版本推送分支为`tsauth/thinksns3`。
 
 ### 部署安装、素材替换与打包所需资料说明
 
