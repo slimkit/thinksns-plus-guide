@@ -21,15 +21,14 @@
 
 ### 代码交付说明
 
-购买授权的客户请提供 [github](https://github.com/) 用户名以及项目的中英文名称.(缺少英文名称的客户可提供域名/拼音等)用于永久接收最新版本的`ThinkSNS Plus`系列产品源码.
-
+购买授权的客户请提供 [github](https://github.com/) 用户名以及项目的中英文名称.(缺少英文名称的客户可提供域名/拼音等)用于接收最新版本的`ThinkSNS Plus`系列产品源码.
 
 
 ### 代码分支说明
 	
 1. 统一前缀 `tsauth/`	
 2. 大版本分支统一使用数字加小数点形式，例如：`tsauth/thinksns3`、`tsauth/1.8`
-3. 当前最新版本为 `tsauth/master`, 直播版为 `tsauth/master-live`，小程序`tsauth/miniprogram`
+3. 当前2.x版本为 `tsauth/master`,3.x版本为 `tsauth/thinksns3` 直播版为 `tsauth/master-live`，小程序`tsauth/miniprogram`
 4. 以上分支统一称为授权分支，如果客户修改了授权分支的代码，最新代码统一在授权分支后追加 `-backup`,例如：
 	
 	```
@@ -41,9 +40,9 @@
 	
 > **备注**：
 > 
-	- 客户使用时需要新建自己的分支，以上分支仅用于接收 `TS+` 最新源码。
+	- 客户使用时需要新建自己的分支，以上分支仅用于接收 `TS+` 最新源码,否则可能会无法接受到新版本更新内容。
 	- 默认2.x的版本为 `tsauth/master` 分支; 3.x的版本推送分支为`tsauth/thinksns3`。
-
+	
 ### 部署安装、素材替换与打包所需资料说明
 
 便于快速部署、素材替换与打包请提供 [必须内容](./deploy-package-res/README.md)
