@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://tsplus.zhibocloud.cn/assets/pc/images/logo.png"></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`ThinkSNS+`打造社交运营为核心的应用级软件系统源码及定制开发服务。支持动态拓展应用的接入和UI规范设计。更多关于`ThinkSNS+`请访问[ThinkSNS+](http://www.thinksns.com/index.htmhttps://tsplus.zhibocloud.cn/assets/pc/images/logo.pngl)。</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`ThinkSNS+`打造社交运营为核心的应用级软件系统源码及定制开发服务。支持动态拓展应用的接入和UI规范设计。更多关于`ThinkSNS+`请访问[ThinkSNS+](http://www.thinksns.com/)。</br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`ThinkSNS+` 产品使用指南,记录`TS+`全部产品使用手册等内容,以及相关技术文档。如果有任何问题需要反馈,请联系`TS+`商务人员.
 
 ## 目录
