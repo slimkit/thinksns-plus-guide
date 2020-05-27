@@ -131,9 +131,12 @@
 #### 3.x
 
 * 服务端
-	
-	* 查看源码仓库 `README.md`与 `docs` 文件夹
-	
+	* [线上文档仓库](https://zhiyicx.github.io/ts-api-docs/)
+		* [部署安装](https://zhiyicx.github.io/ts-api-docs/guide/installation/)
+		* [数据字典](https://zhiyicx.github.io/ts-api-docs/data-fields/) 
+		* [Api接口](https://zhiyicx.github.io/ts-api-docs/api-v2/passport/) 
+	* 授权仓库
+		* 查看源码仓库 `README.md`与 `docs` 文件夹
 
 * iOS端
 	* 查看源码仓库 `README.md`与 `Document` 文件夹
