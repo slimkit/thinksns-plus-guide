@@ -83,7 +83,10 @@
 	* [原生支付配置文档](./技术文档/common/plus-pay-config.md)
 	* [广告图大小规则说明文档](./技术文档/common/ADVERT_DES.md)
 	* [产品UI设计规范](./技术文档/common/README.md)
+	* [ThinkSNS+ 服务器采购指南.md](./技术文档/common/ThinkSNS+guide_for_server.md)
+	* [ThinkSNS+ OSS配置说明](./技术文档/common/alioss_config.md)
 
+	
 #### 2.x
 	
 * 服务端
