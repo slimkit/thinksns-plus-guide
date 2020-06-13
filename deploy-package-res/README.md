@@ -28,7 +28,7 @@
 ##### 3.x 版本
 
 -  [系统版本](./for-ts3-system-version.docx)
--  [App版本](./for-ts3-miniprogram-version.docx)参考系统版，须提供除小程序外的所有信息
+-  [App版本](./for-ts3-system-version.docx)参考系统版，须提供除小程序外的所有信息
 -  [小程序版本](./for-ts3-miniprogram-version.docx)
  
 
