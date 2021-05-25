@@ -73,7 +73,7 @@
 * [微信小程序版使用手册](./thinksns3/微信小程序版使用手册.docx)
 * [管理后台使用手册](./thinksns3/后端使用手册.docx)
 * [技术概要说明](./thinksns3/ThinkSNS-plusV3.pdf)
-* [ThinkSNS+3.0功能清单列表](./thinksns3/function-list.md)
+* [ThinkSNS+3.0功能清单列表](./thinksns3/function-list/function-list.md)
 
 ### 产品技术文档
 
