@@ -54,17 +54,18 @@
 
 ### 服务文档资料
 
-* [产品介绍]
-* [企业及应用案例介绍](http://www.thinksns.com/data/upload/ueditor/20171031/59f758931dab4.pptx)
-* [开源授权协议预览](http://www.thinksns.com/data/upload/ueditor/20171031/59f75808623e0.pdf)
+* [产品介绍](https://thinksns.com/)
+* [企业及应用案例介绍](https://thinksns.com/case.html)
+* [开源授权协议预览](https://github.com/slimkit/plus/blob/master/LICENSE)
 
 ### 产品使用文档
 
 #### 2.x
-* [移动端使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f96170569dd.pdf)
-* [后台使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961d7a15a5.pdf)
-* [PC端使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961c19a9d7.pdf)
-* [H5使用手册](http://www.thinksns.com/data/upload/ueditor/20171101/59f961980fbe8.pdf)
+* [移动端使用手册](./thinksns2/app端使用手册.pdf)
+* [后台使用手册](./thinksns2/管理后台使用手册.pdf)
+* [PC端使用手册](./thinksns2/PC端使用手册.pdf)
+* [H5使用手册](./thinksns2/H5端使用手册.pdf)
+* [PC+H5功能清单](./thinksns2/ThinkSNSPlus功能清单列表(PC+H5).xlsx)
 
 #### 3.x
 
