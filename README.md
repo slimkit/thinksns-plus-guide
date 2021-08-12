@@ -150,6 +150,7 @@
 	* 查看源码仓库 `README.md`与 `document` 文件夹
 
 * 小程序端
+	* [打包说明文档	](./技术文档/miniprogram/miniprogram_package.md) 
 	* 查看源码仓库 `README.md`
 
 
