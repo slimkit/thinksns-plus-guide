@@ -65,7 +65,7 @@
 * [后台使用手册](./thinksns2/管理后台使用手册.pdf)
 * [PC端使用手册](./thinksns2/PC端使用手册.pdf)
 * [H5使用手册](./thinksns2/H5端使用手册.pdf)
-* [PC+H5功能清单](./thinksns2/ThinkSNSPlus功能清单列表(PC+H5).xlsx)
+* [ThinkSNS+2.3功能清单列表](./thinksns2/ThinkSNS_Plus_V2.3功能清单列表.xlsx)
 
 #### 3.x
 
