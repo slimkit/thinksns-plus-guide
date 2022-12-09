@@ -25,7 +25,7 @@
 
 
 ### 代码分支说明
-	
+
 1. 统一前缀 `tsauth/`	
 2. 大版本分支统一使用数字加小数点形式，例如：`tsauth/thinksns3`、`tsauth/1.8`
 3. 当前2.x版本为 `tsauth/master`,3.x版本为 `tsauth/thinksns3` 直播版为 `tsauth/master-live`，小程序`tsauth/miniprogram`
@@ -42,7 +42,7 @@
 > 
 	- 客户使用时需要新建自己的分支，以上分支仅用于接收 `TS+` 最新源码,否则可能会无法接受到新版本更新内容。
 	- 默认2.x的版本为 `tsauth/master` 分支; 3.x的版本推送分支为`tsauth/thinksns3`。
-	
+
 ### 部署安装、素材替换与打包所需资料说明
 
 便于快速部署、素材替换与打包请提供 [必须内容](./deploy-package-res/README.md)
@@ -74,6 +74,7 @@
 * [微信小程序版使用手册](./thinksns3/微信小程序版使用手册.docx)
 * [管理后台使用手册](./thinksns3/后端使用手册.docx)
 * [技术概要说明](./thinksns3/ThinkSNS-plusV3.pdf)
+* [管理后台高德IP定位配置说明](./thinksns3/amap/amapconfig.md)
 * [ThinkSNS+3.0功能清单列表](./thinksns3/function-list/function-list.md)
 
 ### 产品技术文档
@@ -90,7 +91,7 @@
 
 	
 #### 2.x
-	
+
 * 服务端
 	
 	* [2.0+详细部署文档](https://slimkit.github.io/plus/guide/installation/install-plus.html#%E4%B8%8B%E8%BD%BD-plus-%E7%A8%8B%E5%BA%8F)
