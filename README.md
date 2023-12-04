@@ -71,7 +71,7 @@
 
 * [IOS版使用手册](./thinksns3/IOS端使用手册.docx)
 * [Android版使用手册](./thinksns3/Android端使用手册.docx)
-* [微信小程序版使用手册](./thinksns3/微信小程序使用手册-231025.pdf)
+* [微信小程序版使用手册](./thinksns3/微信小程序使用手册-231204.pdf)
 * [管理后台使用手册](./thinksns3/后端使用手册.docx)
 * [技术概要说明](./thinksns3/ThinkSNS-plusV3.pdf)
 * [管理后台高德IP定位配置说明](./thinksns3/amap/amapconfig.md)
