@@ -69,13 +69,13 @@
 
 #### 3.x
 
-* [IOS版使用手册](./thinksns3/IOS端使用手册.docx)
-* [Android版使用手册](./thinksns3/Android端使用手册.docx)
+* [移动端使用手册](./thinksns3/移动端使用手册-20241112.docx)
 * [微信小程序版使用手册](./thinksns3/微信小程序使用手册-231204.pdf)
-* [管理后台使用手册](./thinksns3/后端使用手册.docx)
+* [管理后台使用手册](./thinksns3/ThinksnsPlus3.0-后台使用手册-20241112.docx)
 * [技术概要说明](./thinksns3/ThinkSNS-plusV3.pdf)
 * [管理后台高德IP定位配置说明](./thinksns3/amap/amapconfig.md)
-* [ThinkSNS+3.0功能清单列表](./thinksns3/function-list/function-list.md)
+* [ThinkSNS+3.0功能清单列表](./thinksns3/ThinkSNS+3.0功能清单列表20241111.xlsx)
+
 
 ### 产品技术文档
 
